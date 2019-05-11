@@ -4,15 +4,15 @@ title: Hexo - Themes Chiangmai
 
 ---
 
-本站使用Hexo搭建
+本站使用**Hexo**搭建
 
-目前主题采用Chiangmai
+目前主题采用*Chiangmai*
 
 在此感谢。
 
 ---
 
-Hexo 介绍:
+**Hexo** 介绍:
 
     - 超快速度
     
@@ -32,7 +32,7 @@ Hexo 介绍:
 
 ---
 
-Code 部署代码:
+**Code** 部署代码:
 
         $ npm install hexo-cli -g
          
