@@ -88,3 +88,6 @@ deploy:
   type: git
   repo: git@github.com:luxiaokuo/luxiaokuo.github.io.git
   branch: master
+
+Plugins:
+- hexo-generator-cname
