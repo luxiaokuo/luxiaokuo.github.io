@@ -73,7 +73,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+
+#theme: solar
 theme: chiangmai
+#theme: dxx
 
 # hexo-generator-archive
 archive_generator:
