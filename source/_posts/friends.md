@@ -8,7 +8,7 @@ title: Friends
 
 ---
 
-**主机排行榜**  -  ( _独立发开发者联盟组建人_ )
+**主机排行榜**  -  ( _独立发开发者联盟 - 组建人 **[cmlanche](https://cmlanche.com/)**_ )
 
 ---
 
@@ -25,7 +25,7 @@ http://qianjiapp.com/
 
 ---
 
-**码力全开科技工作室**  -  ( _码力全开科技工作室 - 创始人**Larry**_ )
+**码力全开科技工作室**  -  ( _码力全开科技工作室 - 创始人 **[Larry](https://weibo.com/236601678)**_ )
 
 ---
 
@@ -41,7 +41,15 @@ https://www.xcodebuild.com/
 
 ---
 
-**Laravel学院**  -  ( _Laravel社区 - 站长_**_学院君_** )
+**Codespots**  -  ( _React Vue.js 等组件分享社区_ )
+
+---
+
+https://codespots.com/
+
+---
+
+**Laravel学院**  -  ( _Laravel社区 - 站长_ **_学院君_** )
 
 ---
 
