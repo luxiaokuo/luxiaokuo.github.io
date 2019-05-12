@@ -1,6 +1,6 @@
 ---
 
-title: Vim
+title: Vim - 编辑器安装
 
 ---
 

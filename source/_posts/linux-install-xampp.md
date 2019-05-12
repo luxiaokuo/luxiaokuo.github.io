@@ -1,6 +1,6 @@
 ---
 
-title: Xampp
+title: Xampp - Linux install 安装及基本命令
 
 ---
 

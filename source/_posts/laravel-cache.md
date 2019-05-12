@@ -1,6 +1,6 @@
 ---
 
-title: Laravel - Cache
+title: Laravel - Cache 清除缓存
 
 ---
 
