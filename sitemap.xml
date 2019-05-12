@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kuo.lu/2019/05/12/friends/</loc>
+    
+    <lastmod>2019-05-12T05:36:11.869Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kuo.lu/2019/05/11/my/</loc>
+    
+    <lastmod>2019-05-12T05:11:53.755Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kuo.lu/2019/05/11/git/</loc>
     
     <lastmod>2019-05-11T13:04:07.514Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>http://kuo.lu/2019/05/11/vim/</loc>
     
     <lastmod>2019-05-11T12:53:08.486Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kuo.lu/2019/05/11/my/</loc>
-    
-    <lastmod>2019-05-11T12:50:39.307Z</lastmod>
     
   </url>
   
