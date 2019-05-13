@@ -1,27 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>길이 넓다</title>
+  <title>Kuo</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kuo.lu/"/>
-  <updated>2019-05-12T05:54:01.634Z</updated>
+  <updated>2019-05-13T14:45:28.016Z</updated>
   <id>http://kuo.lu/</id>
   
   <author>
-    <name>KuoLu</name>
+    <name>Lu</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Format - MD格式</title>
+    <link href="http://kuo.lu/2019/05/13/format/"/>
+    <id>http://kuo.lu/2019/05/13/format/</id>
+    <published>2019-05-13T14:23:48.627Z</published>
+    <updated>2019-05-13T14:45:28.016Z</updated>
+    
+    <content type="html"><![CDATA[<p>标题</p><p><code>title</code></p><hr><p>标签 分类</p><p><code>categories</code></p><hr><p>日期</p><p><code>data</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;标题&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;title&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;标签 分类&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;categories&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;日期&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;data&lt;/code&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="markdown" scheme="http://kuo.lu/categories/markdown/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Friends - 我的朋友们</title>
     <link href="http://kuo.lu/2019/05/12/friends/"/>
     <id>http://kuo.lu/2019/05/12/friends/</id>
     <published>2019-05-12T04:56:18.592Z</published>
-    <updated>2019-05-12T05:54:01.634Z</updated>
+    <updated>2019-05-13T14:45:00.220Z</updated>
     
     <content type="html"><![CDATA[<p>排名不分先后</p><hr><p><strong>主机排行榜</strong>  -  ( <em>独立发开发者联盟 - 组建人 <strong><a href="https://cmlanche.com/" target="_blank" rel="noopener">cmlanche</a></strong></em> )</p><hr><p><a href="https://hostingranking.cn/" target="_blank" rel="noopener">https://hostingranking.cn/</a></p><hr><p><strong>钱迹</strong>  -  ( <em>记账小助手 - 作者 <strong><a href="https://weibo.com/u/3319419782" target="_blank" rel="noopener">首富</a></strong></em> )</p><hr><p><a href="http://qianjiapp.com/" target="_blank" rel="noopener">http://qianjiapp.com/</a></p><hr><p><strong>码力全开科技工作室</strong>  -  ( <em>码力全开科技工作室 - 创始人 <strong><a href="https://weibo.com/236601678" target="_blank" rel="noopener">Larry</a></strong></em> )</p><hr><p><a href="https://maliquankai.com/" target="_blank" rel="noopener">https://maliquankai.com/</a></p><hr><p><strong>XcodeBuild</strong>  -  ( <em>阿里前端开发 macOS个人开发</em> )</p><hr><p><a href="https://www.xcodebuild.com/" target="_blank" rel="noopener">https://www.xcodebuild.com/</a></p><hr><p><strong>Codespots</strong>  -  ( <em>React Vue.js 等组件分享社区</em> )</p><hr><p><a href="https://codespots.com/" target="_blank" rel="noopener">https://codespots.com/</a></p><hr><p><strong>Laravel学院</strong>  -  ( <em>Laravel社区 - 站长</em> <strong><em>学院君</em></strong> )</p><hr><p><a href="https://laravelacademy.org/" target="_blank" rel="noopener">https://laravelacademy.org/</a></p><hr><p><strong>learnku</strong>  -  ( <em>PHP IOS Golang Vue.js Python Laravel 综合社区 - 站长</em> <strong><em>Summer</em></strong> )</p><hr><p><a href="https://learnku.com/" target="_blank" rel="noopener">https://learnku.com/</a></p>]]></content>
     
@@ -36,6 +67,8 @@
     
     </summary>
     
+      <category term="友链" scheme="http://kuo.lu/categories/%E5%8F%8B%E9%93%BE/"/>
+    
     
   </entry>
   
@@ -44,7 +77,7 @@
     <link href="http://kuo.lu/2019/05/11/git/"/>
     <id>http://kuo.lu/2019/05/11/git/</id>
     <published>2019-05-11T12:57:17.426Z</published>
-    <updated>2019-05-12T05:53:51.930Z</updated>
+    <updated>2019-05-13T14:44:52.572Z</updated>
     
     <content type="html"><![CDATA[<p><em><strong>git官网</strong></em></p><p><em><a href="https://git-scm.com/downloads" target="_blank" rel="noopener">https://git-scm.com/downloads</a></em></p><hr><p><em><strong>国内镜像</strong></em></p><p><em><a href="https://pan.baidu.com/s/1kU5OCOB#list/path=%2Fpub%2Fgit" target="_blank" rel="noopener">https://pan.baidu.com/s/1kU5OCOB#list/path=%2Fpub%2Fgit</a></em></p><hr><p><em><strong>分布式版本控制系统</strong></em></p><p>—&gt;   <strong>默认选项安装</strong> 即可。</p><hr><p><em><strong>安装完成后</strong></em></p><p>找到 git -&gt; git bash</p><hr><p><em><strong>输入命令</strong></em></p><p><code>$ git config --global user.name=&quot;Your Name&quot;</code></p><p><code>$ git config --global user.email=&quot;email@example.com&quot;</code></p><hr><p><em><strong>创建版本库</strong></em></p><hr><p><em><strong>创建repository</strong></em></p><p><code>$ mkdir repository</code></p><hr><p><em><strong>切换到repository</strong></em></p><p><code>$ cd repository</code></p><hr><p><em><strong>显示当前路径</strong></em></p><p><code>$ pwd</code></p><hr><p><em><strong>变成Git可以管理的仓库</strong></em></p><p><code>$ git init</code></p><hr><p><strong>_添加文件</strong>_</p><p><code>$ git add filename</code></p><hr><p><em><strong>提交文件  commit可以一次提交很多文件</strong></em></p><p><code>$ git commit -m &quot;luxiaokuo&quot;</code></p><hr><p><em><strong>提交记录</strong></em></p><p><code>$ git log</code></p><hr><p><em><strong>更清晰展现提交记录</strong></em></p><p><code>$ git log --pretty=oneline</code></p><hr><p><em><strong>查看文件</strong></em></p><p><code>$ cat filename</code></p><hr><p>HEAD表示当前版本上一个版本就是HEAD^，上上一个版本就是HEAD^^，当然往上100个版本写100个^比较容易数不过来，所以写成HEAD~100。</p><p>回退上1版本</p><p><code>$ git --hard HEAD^</code></p><p><em><strong>原版号</strong></em></p><p><code>$ git reset --hard</code></p><hr><p><em><strong>关闭终端之后没有版本号的话</strong></em></p><hr><p><em><strong>可查看所有命令记录</strong></em></p><p><code>$ git reflog</code></p>]]></content>
     
@@ -58,6 +91,8 @@
     
     </summary>
     
+      <category term="git" scheme="http://kuo.lu/categories/git/"/>
+    
     
   </entry>
   
@@ -66,7 +101,7 @@
     <link href="http://kuo.lu/2019/05/11/vim/"/>
     <id>http://kuo.lu/2019/05/11/vim/</id>
     <published>2019-05-11T12:47:13.394Z</published>
-    <updated>2019-05-12T05:51:49.514Z</updated>
+    <updated>2019-05-13T14:43:03.349Z</updated>
     
     <content type="html"><![CDATA[<p><strong><em>Centos</em></strong> 默认安装了Vim</p><hr><p>但<strong><em>Vim</em></strong> 编辑器是没安装或者未完全安装的</p><hr><p><strong>检测是否已经安装过Vim</strong>：</p><hr><p><code>$ rpm -qa|grep vim</code></p><p><img src="https://i.loli.net/2019/05/11/5cd6c5118f758.png" alt="想输入的提示名字，可不输入"></p><hr><p>若是<strong>缺少Vim</strong>包名：则使用命令： </p><hr><p>比如说： <strong><em>vim-enhanced</em></strong> 这个包少了</p><hr><p>执行：</p><p><code>$ yum -y install vim-enhanced</code></p><p>会自动下载安装。</p><hr><p>下载完成进行安装： </p><p><code>$ yum -y install vim*</code></p>]]></content>
     
@@ -83,6 +118,8 @@
     
     </summary>
     
+      <category term="vim" scheme="http://kuo.lu/categories/vim/"/>
+    
     
   </entry>
   
@@ -91,7 +128,7 @@
     <link href="http://kuo.lu/2019/05/11/linux-install-xampp/"/>
     <id>http://kuo.lu/2019/05/11/linux-install-xampp/</id>
     <published>2019-05-11T12:43:31.609Z</published>
-    <updated>2019-05-12T05:50:45.058Z</updated>
+    <updated>2019-05-13T14:43:46.920Z</updated>
     
     <content type="html"><![CDATA[<p><strong>安装</strong></p><hr><p><strong><em>1、切换到home目录 也可以是别的目录</em></strong></p><p><code># cd /home/</code></p><hr><p><strong><em>2、下载文件</em></strong></p><p><code># sudo wget https://www.apachefriends.org/xampp-files/5.6.31/xampp-linux-x64-5.6.31-0-installer.run</code></p><hr><p><strong><em>3、设置权限</em></strong></p><p><code># chmod 777 xampp-linux-x64-5.6.31-0-installer.run</code></p><hr><p><strong><em>4、运行文件</em></strong></p><p><code>./xampp-linux-x64-5.6.31-0-installer.run</code></p><hr><p><em>运行成功会提示选择一些选项 一路Y即可</em></p><hr><p><strong><em>修改hosts域名解析</em></strong></p><p><code>vim /etc/hosts</code></p><hr><p><strong><em>重启xampp:</em></strong></p><p><code>/opt/lampp/./lampp restart</code></p><hr><p><strong><em>启动xampp：</em></strong></p><p><code>/opt/lampp/./lampp start</code></p><hr><p><strong><em>停止xampp：</em></strong></p><p><code>/opt/lampp/./lampp stop</code></p><hr><p><strong><em>卸载xampp：</em></strong></p><p><code>rm -rf /opt/lampp</code></p><hr><p><strong><em>停止xampp：</em></strong></p><p><code>/opt/lampp/./lampp stop</code></p>]]></content>
     
@@ -109,15 +146,17 @@
     
     </summary>
     
+      <category term="xampp" scheme="http://kuo.lu/categories/xampp/"/>
+    
     
   </entry>
   
   <entry>
-    <title>firewall 基本命令</title>
+    <title>Firewall 基本命令</title>
     <link href="http://kuo.lu/2019/05/11/firewall/"/>
     <id>http://kuo.lu/2019/05/11/firewall/</id>
     <published>2019-05-11T12:40:03.594Z</published>
-    <updated>2019-05-12T05:49:53.249Z</updated>
+    <updated>2019-05-13T14:45:46.747Z</updated>
     
     <content type="html"><![CDATA[<p><strong>查看运行状态</strong></p><p><code>firewall-cmd --state</code></p><hr><p><strong>启动服务</strong></p><p><code>systemctl start firewalld</code></p><hr><p><strong>设为开机启动</strong></p><p><code>systemctl enable firewalld</code></p><hr><p><strong>查看是否启动成功</strong></p><p><code>systemctl status firewalld</code></p><hr><p><strong>重启</strong></p><p><code>firewall-cmd --reload</code></p><hr><p><strong>查看所有端口</strong></p><p><code>firewall-cmd --list-ports</code></p><hr><p><strong>开启80端口</strong></p><p><code>firewall-cmd --zone=public --add-port=80/tcp --permanent</code></p><hr><p><strong>开启3306</strong></p><p><code>firewall-cmd --zone=public --add-port=3306/tcp --permanent</code></p>]]></content>
     
@@ -134,15 +173,17 @@
     
     </summary>
     
+      <category term="firewall" scheme="http://kuo.lu/categories/firewall/"/>
+    
     
   </entry>
   
   <entry>
-    <title>mysql - install 安装及基本命令</title>
+    <title>Mysql - install 安装及基本命令</title>
     <link href="http://kuo.lu/2019/05/11/mysql-install/"/>
     <id>http://kuo.lu/2019/05/11/mysql-install/</id>
     <published>2019-05-11T12:33:40.344Z</published>
-    <updated>2019-05-12T05:50:13.770Z</updated>
+    <updated>2019-05-13T14:45:56.819Z</updated>
     
     <content type="html"><![CDATA[<p><strong>Mysql</strong> ( <em>mysql -u root -p访问mysql</em> )</p><hr><p><strong><em>1.下载mysql源安装包</em></strong></p><p><code>wget http://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>2.安装mysql源</em></strong></p><p><code>yum localinstall mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>3.查看是否安装成功</em></strong></p><p><code>yum repolist enabled | grep &quot;mysql.*-community.*&quot;</code></p><hr><p><strong><em>4.这个指令可以修改安装版本(一般不用改，默认安装你的5.7)</em></strong></p><p><code>vim /etc/yum.repos.d/mysql-community.repo</code></p><hr><p><strong><em>5.安装mysql</em></strong></p><p><code>yum install mysql-community-server</code></p><hr><p><strong><em>6.启动MySql</em></strong></p><hr><p><strong>启动</strong></p><p><code>systemctl start mysqld</code></p><p><strong>状态</strong></p><p><code>systemctl status mysqld</code></p><p><strong>重启</strong></p><p><code>/bin/systemctl restart mysqld.service</code></p><hr><p><strong>7.开机自启</strong></p><p><code>systemctl enable mysql</code></p><p><code>systemctl daemon-reload</code></p>]]></content>
     
@@ -158,6 +199,8 @@
     
     </summary>
     
+      <category term="mysql" scheme="http://kuo.lu/categories/mysql/"/>
+    
     
   </entry>
   
@@ -166,9 +209,9 @@
     <link href="http://kuo.lu/2019/05/11/apache/"/>
     <id>http://kuo.lu/2019/05/11/apache/</id>
     <published>2019-05-11T12:29:43.448Z</published>
-    <updated>2019-05-12T05:49:43.712Z</updated>
+    <updated>2019-05-13T14:42:52.605Z</updated>
     
-    <content type="html"><![CDATA[<p><strong><em>基本操作 ( 不定时更新 )</em></strong></p><hr><p><strong>安装</strong>: <em>yum install httpd httpd-devel</em></p><hr><p><strong>状态</strong>: <em>systemctl status httpd.service</em></p><hr><p><strong>停止</strong>: <em>systemctl stop httpd.service</em></p><hr><p><strong>启动</strong>: <em>systemctl start httpd.service</em></p><hr><p><strong>开启启动</strong>: <em>systemctl enable httpd.service</em></p><hr><p><strong>重启</strong>: <em>systemctl restart httpd.service</em></p><hr><p><strong>开机不启动</strong>: <em>systemctl disable httpd.service</em></p>]]></content>
+    <content type="html"><![CDATA[<p><strong><em>基本操作 ( 不定时更新 )</em></strong></p><hr><p><strong>安装</strong>: </p><p><code>yum install httpd httpd-devel</code></p><hr><p><strong>状态</strong>: </p><p><code>systemctl status httpd.service</code></p><hr><p><strong>停止</strong>: </p><p><code>systemctl stop httpd.service</code></p><hr><p><strong>启动</strong>: </p><p><code>systemctl start httpd.service</code></p><hr><p><strong>开启启动</strong>: </p><p><code>systemctl enable httpd.service</code></p><hr><p><strong>重启</strong>: </p><p><code>systemctl restart httpd.service</code></p><hr><p><strong>开机不启动</strong>: </p><p><code>systemctl disable httpd.service</code></p>]]></content>
     
     <summary type="html">
     
@@ -176,12 +219,15 @@
       
         &lt;p&gt;&lt;strong&gt;&lt;em&gt;基本操作 ( 不定时更新 )&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;安装&lt;/strong&gt;: &lt;em&gt;yum install httpd httpd-devel&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;安装&lt;/strong&gt;: &lt;/p&gt;
+&lt;p&gt;&lt;code&gt;yum install httpd httpd-devel&lt;/code&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;状态&lt;/
+&lt;p&gt;
       
     
     </summary>
+    
+      <category term="apache" scheme="http://kuo.lu/categories/apache/"/>
     
     
   </entry>
@@ -191,7 +237,7 @@
     <link href="http://kuo.lu/2019/05/11/laravel-cache/"/>
     <id>http://kuo.lu/2019/05/11/laravel-cache/</id>
     <published>2019-05-11T12:20:32.965Z</published>
-    <updated>2019-05-12T05:49:33.454Z</updated>
+    <updated>2019-05-13T14:43:59.559Z</updated>
     
     <content type="html"><![CDATA[<p><strong>清除配置缓存</strong></p><p><code>php artisan config:clear</code></p><hr><p><strong>清除各种缓存</strong> ( <em>如页面，Redis，配置文件等缓存</em> )</p><p><code>php artisan cache:clear</code></p><hr><p><strong>清除视图缓存</strong></p><p><code>php artisan view:clear</code></p>]]></content>
     
@@ -207,6 +253,8 @@
     
     </summary>
     
+      <category term="Cache" scheme="http://kuo.lu/categories/Cache/"/>
+    
     
   </entry>
   
@@ -215,7 +263,7 @@
     <link href="http://kuo.lu/2019/05/11/composer/"/>
     <id>http://kuo.lu/2019/05/11/composer/</id>
     <published>2019-05-11T12:12:50.214Z</published>
-    <updated>2019-05-12T05:49:18.905Z</updated>
+    <updated>2019-05-13T14:45:37.652Z</updated>
     
     <content type="html"><![CDATA[<p><strong>composer - 切换国内的镜像源</strong></p><p><code>composer config -g repo.packagist composer https://packagist.phpcomposer.com</code>    </p><hr><p><strong>composer - 取消镜像</strong></p><p><code>composer config -g --unset repos.packagist</code></p>]]></content>
     
@@ -229,6 +277,8 @@
     
     </summary>
     
+      <category term="composer" scheme="http://kuo.lu/categories/composer/"/>
+    
     
   </entry>
   
@@ -237,7 +287,7 @@
     <link href="http://kuo.lu/2019/05/11/hexo-themes/"/>
     <id>http://kuo.lu/2019/05/11/hexo-themes/</id>
     <published>2019-05-11T08:38:48.955Z</published>
-    <updated>2019-05-11T12:25:09.530Z</updated>
+    <updated>2019-05-13T14:44:44.525Z</updated>
     
     <content type="html"><![CDATA[<p>本站使用<strong>Hexo</strong>搭建</p><p>目前主题采用<em>Chiangmai</em></p><p>在此感谢。</p><hr><p><strong>Hexo</strong> 介绍:</p><pre><code>- 超快速度 - Node.js 所带来的超快生成速度，让上百个页面在几秒内瞬间完成渲染。 - 支持 Markdown - Hexo 支持 GitHub Flavored Markdown 的所有功能，甚至可以整合 Octopress 的大多数插件。 - 一键部署 - 只需一条指令即可部署到 GitHub Pages, Heroku 或其他网站。 - 丰富的插件 - Hexo 拥有强大的插件系统，安装插件可以让 Hexo 支持 Jade, CoffeeScript。</code></pre><hr><p><strong>Code</strong> 部署代码:</p><pre><code>$ npm install hexo-cli -g $ hexo init blog $ cd blog $ npm install $ hexo server</code></pre><hr>]]></content>
     
@@ -257,6 +307,8 @@
     
     </summary>
     
+      <category term="other" scheme="http://kuo.lu/categories/other/"/>
+    
     
   </entry>
   
@@ -265,7 +317,7 @@
     <link href="http://kuo.lu/2019/05/11/my/"/>
     <id>http://kuo.lu/2019/05/11/my/</id>
     <published>2019-05-11T08:28:44.052Z</published>
-    <updated>2019-05-12T05:54:16.346Z</updated>
+    <updated>2019-05-13T14:43:29.021Z</updated>
     
     <content type="html"><![CDATA[<p><em><strong>KuoLu</strong></em></p><p><strong>WeChat</strong>: <em>Red-Charcoal</em></p><p><img src="https://i.loli.net/2019/05/11/5cd68f7bd1a4a.png" alt="想输入的提示名字，可不输入"></p><hr>]]></content>
     
@@ -280,6 +332,8 @@
     
     </summary>
     
+      <category term="other" scheme="http://kuo.lu/categories/other/"/>
+    
     
   </entry>
   
@@ -288,7 +342,7 @@
     <link href="http://kuo.lu/2019/05/11/hi/"/>
     <id>http://kuo.lu/2019/05/11/hi/</id>
     <published>2019-05-10T17:11:05.486Z</published>
-    <updated>2019-05-12T05:54:27.426Z</updated>
+    <updated>2019-05-13T14:44:37.996Z</updated>
     
     <content type="html"><![CDATA[<p><strong>Welcome</strong> to <strong><em><a href="http://kuo.lu/">Kuolu</a>!</em></strong> <strong>This is a private technology analysis blog.</strong></p><hr><p><strong>欢迎来到<em>Kuolu</em>  -  这是一个<em>私人技术分享</em> 博客。</strong></p>]]></content>
     
@@ -300,6 +354,8 @@
       
     
     </summary>
+    
+      <category term="other" scheme="http://kuo.lu/categories/other/"/>
     
     
   </entry>
