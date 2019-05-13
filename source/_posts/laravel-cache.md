@@ -4,6 +4,8 @@ title: Laravel - Cache 清除缓存
 
 categories: Cache
 
+date: 2019-01-11
+
 ---
 
 **清除配置缓存**

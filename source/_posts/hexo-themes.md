@@ -4,6 +4,8 @@ title: Hexo - Themes Chiangmai
 
 categories: other
 
+date: 2019-05-11
+
 ---
 
 本站使用**Hexo**搭建

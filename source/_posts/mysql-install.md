@@ -4,6 +4,8 @@ title: Mysql - install 安装及基本命令
 
 categories: mysql
 
+date: 2018-08-10
+
 ---
 
 **Mysql** ( _mysql -u root -p访问mysql_ )

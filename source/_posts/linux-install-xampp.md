@@ -4,6 +4,8 @@ title: Xampp - Linux install 安装及基本命令
 
 categories: xampp
 
+date: 2018-08-07
+
 ---
 
 **安装**

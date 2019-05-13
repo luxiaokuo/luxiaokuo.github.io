@@ -4,6 +4,8 @@ title: Hi - Welcome - 欢迎
 
 categories: other
 
+date: 2019-05-11
+
 ---
 
 **Welcome** to **_[Kuolu](http://kuo.lu/)!_** **This is a private technology analysis blog.**
