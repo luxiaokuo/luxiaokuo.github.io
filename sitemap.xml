@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kuo.lu/2018/08/17/php72/</loc>
+    
+    <lastmod>2019-05-13T18:06:23.387Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kuo.lu/2017/02/09/tp-url/</loc>
+    
+    <lastmod>2019-05-13T17:42:39.716Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kuo.lu/2016/12/30/mvc/</loc>
+    
+    <lastmod>2019-05-13T17:32:24.462Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kuo.lu/2018/04/29/site-gray/</loc>
+    
+    <lastmod>2019-05-13T17:09:48.411Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kuo.lu/2019/03/11/composer/</loc>
     
     <lastmod>2019-05-13T16:50:19.193Z</lastmod>
@@ -82,13 +110,6 @@
     <loc>http://kuo.lu/2018/06/03/python-peppa-pig/</loc>
     
     <lastmod>2019-05-13T16:46:52.829Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kuo.lu/2018/04/29/site-gray/</loc>
-    
-    <lastmod>2019-05-13T16:46:25.053Z</lastmod>
     
   </url>
   
