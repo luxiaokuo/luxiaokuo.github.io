@@ -341,7 +341,6 @@ header .nav-list-item a {
 }
 
 .archive .post-info {
-    float: left;
     width: 100%;
     color: #7f8c8d
 }
@@ -752,7 +751,7 @@ footer .paginator {
 
 footer .paginator .next,footer .paginator .prev {
     display: inline-block;
-    margin: 0 4px;
+    margin: 0 10px;
     padding: 4px 12px
 }
 
