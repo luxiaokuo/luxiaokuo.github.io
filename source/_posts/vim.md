@@ -2,6 +2,8 @@
 
 title: Vim - 编辑器安装
 
+categories: vim
+
 ---
 
 **_Centos_** 默认安装了Vim

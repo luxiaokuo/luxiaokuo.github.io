@@ -2,6 +2,8 @@
 
 title: Git - Windows安装及基本命令
 
+categories: git
+
 ---
 
 _**git官网**_

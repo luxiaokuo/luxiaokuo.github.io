@@ -2,6 +2,8 @@
 
 title: Hi - Welcome - 欢迎
 
+categories: other
+
 ---
 
 **Welcome** to **_[Kuolu](http://kuo.lu/)!_** **This is a private technology analysis blog.**

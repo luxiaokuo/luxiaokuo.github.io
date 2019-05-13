@@ -2,6 +2,8 @@
 
 title: Hexo - Themes Chiangmai
 
+categories: other
+
 ---
 
 本站使用**Hexo**搭建

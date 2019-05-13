@@ -2,6 +2,8 @@
 
 title: Friends - 我的朋友们
 
+categories: 友链
+
 ---
 
 排名不分先后

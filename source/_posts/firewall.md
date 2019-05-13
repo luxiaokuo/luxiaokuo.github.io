@@ -1,6 +1,8 @@
 ---
 
-title: firewall 基本命令
+title: Firewall 基本命令
+
+categories: firewall
 
 ---
 

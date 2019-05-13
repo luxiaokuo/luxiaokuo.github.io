@@ -2,6 +2,8 @@
 
 title: About me - 关于我
 
+categories: other
+
 ---
 
 _**KuoLu**_

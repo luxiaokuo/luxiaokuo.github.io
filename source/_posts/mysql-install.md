@@ -1,6 +1,8 @@
 ---
 
-title: mysql - install 安装及基本命令
+title: Mysql - install 安装及基本命令
+
+categories: mysql
 
 ---
 

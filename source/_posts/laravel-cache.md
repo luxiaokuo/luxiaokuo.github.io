@@ -2,6 +2,8 @@
 
 title: Laravel - Cache 清除缓存
 
+categories: Cache
+
 ---
 
 **清除配置缓存**
