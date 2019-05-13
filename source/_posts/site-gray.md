@@ -2,6 +2,8 @@
 
 title: 全站悼念
 
+categories: other
+
 date: 2018-04-29
 
 ---
