@@ -2,6 +2,8 @@
 
 title: Mvc
 
+categories: Mvc
+
 date: 2016-12-30
 
 ---
