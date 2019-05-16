@@ -2,6 +2,8 @@
 
 title: Vim - 编辑器安装
 
+date: 2018-09-12
+
 categories: vim
 
 ---
