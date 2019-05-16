@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kuo.lu/"/>
-  <updated>2019-05-13T16:49:44.302Z</updated>
+  <updated>2019-05-14T04:40:33.959Z</updated>
   <id>http://kuo.lu/</id>
   
   <author>
@@ -15,37 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Format - MD格式</title>
-    <link href="http://kuo.lu/2019/05/14/format/"/>
-    <id>http://kuo.lu/2019/05/14/format/</id>
-    <published>2019-05-13T16:00:00.000Z</published>
-    <updated>2019-05-13T16:49:44.302Z</updated>
-    
-    <content type="html"><![CDATA[<p>标题</p><p><code>title</code></p><hr><p>标签 分类</p><p><code>categories</code></p><hr><p>日期</p><p><code>data</code></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;标题&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;title&lt;/code&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;标签 分类&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;categories&lt;/code&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;日期&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;data&lt;/code&gt;&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="markdown" scheme="http://kuo.lu/categories/markdown/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>Friends - 我的朋友们</title>
@@ -73,28 +42,28 @@
   </entry>
   
   <entry>
-    <title>Vim - 编辑器安装</title>
-    <link href="http://kuo.lu/2019/05/11/vim/"/>
-    <id>http://kuo.lu/2019/05/11/vim/</id>
-    <published>2019-05-11T12:47:13.394Z</published>
-    <updated>2019-05-13T14:43:03.349Z</updated>
+    <title>About me - 关于我</title>
+    <link href="http://kuo.lu/2019/05/11/my/"/>
+    <id>http://kuo.lu/2019/05/11/my/</id>
+    <published>2019-05-10T16:00:00.000Z</published>
+    <updated>2019-05-14T08:20:23.820Z</updated>
     
-    <content type="html"><![CDATA[<p><strong><em>Centos</em></strong> 默认安装了Vim</p><hr><p>但<strong><em>Vim</em></strong> 编辑器是没安装或者未完全安装的</p><hr><p><strong>检测是否已经安装过Vim</strong>：</p><hr><p><code>$ rpm -qa|grep vim</code></p><p><img src="https://i.loli.net/2019/05/11/5cd6c5118f758.png" alt="想输入的提示名字，可不输入"></p><hr><p>若是<strong>缺少Vim</strong>包名：则使用命令： </p><hr><p>比如说： <strong><em>vim-enhanced</em></strong> 这个包少了</p><hr><p>执行：</p><p><code>$ yum -y install vim-enhanced</code></p><p>会自动下载安装。</p><hr><p>下载完成进行安装： </p><p><code>$ yum -y install vim*</code></p>]]></content>
+    <content type="html"><![CDATA[<p><em><strong>KuoLu</strong></em></p><hr><p><strong>WeChat</strong>: <em>Red-Charcoal</em></p><hr><p><strong>Weibo</strong>：<em><a href="https://weibo.com/5451432140" target="_blank" rel="noopener">偏守</a></em></p><p><img src="https://i.loli.net/2019/05/11/5cd68f7bd1a4a.png" alt="想输入的提示名字，可不输入"></p><hr>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;strong&gt;&lt;em&gt;Centos&lt;/em&gt;&lt;/strong&gt; 默认安装了Vim&lt;/p&gt;
+        &lt;p&gt;&lt;em&gt;&lt;strong&gt;KuoLu&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;但&lt;strong&gt;&lt;em&gt;Vim&lt;/em&gt;&lt;/strong&gt; 编辑器是没安装或者未完全安装的&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;WeChat&lt;/strong&gt;: &lt;em&gt;Red-Charcoal&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;检测是否已经安装过Vim&lt;/st
+&lt;p&gt;&lt;strong&gt;Weibo&lt;/strong&gt;：&lt;em&gt;&lt;a href
       
     
     </summary>
     
-      <category term="vim" scheme="http://kuo.lu/categories/vim/"/>
+      <category term="other" scheme="http://kuo.lu/categories/other/"/>
     
     
   </entry>
@@ -130,56 +99,6 @@
   </entry>
   
   <entry>
-    <title>Hi - Welcome - 欢迎</title>
-    <link href="http://kuo.lu/2019/05/11/hi/"/>
-    <id>http://kuo.lu/2019/05/11/hi/</id>
-    <published>2019-05-10T16:00:00.000Z</published>
-    <updated>2019-05-13T16:48:40.628Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>Welcome</strong> to <strong><em><a href="http://kuo.lu/">Kuolu</a>!</em></strong> <strong>This is a private technology analysis blog.</strong></p><hr><p><strong>欢迎来到<em>Kuolu</em>  -  这是一个<em>私人技术分享</em> 博客。</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;strong&gt;Welcome&lt;/strong&gt; to &lt;strong&gt;&lt;em&gt;&lt;a href=&quot;http://kuo.lu/&quot;&gt;Kuolu&lt;/a&gt;!&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;This is a private technology analysis b
-      
-    
-    </summary>
-    
-      <category term="other" scheme="http://kuo.lu/categories/other/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>About me - 关于我</title>
-    <link href="http://kuo.lu/2019/05/11/my/"/>
-    <id>http://kuo.lu/2019/05/11/my/</id>
-    <published>2019-05-10T16:00:00.000Z</published>
-    <updated>2019-05-14T08:20:23.820Z</updated>
-    
-    <content type="html"><![CDATA[<p><em><strong>KuoLu</strong></em></p><hr><p><strong>WeChat</strong>: <em>Red-Charcoal</em></p><hr><p><strong>Weibo</strong>：<em><a href="https://weibo.com/5451432140" target="_blank" rel="noopener">偏守</a></em></p><p><img src="https://i.loli.net/2019/05/11/5cd68f7bd1a4a.png" alt="想输入的提示名字，可不输入"></p><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;em&gt;&lt;strong&gt;KuoLu&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;WeChat&lt;/strong&gt;: &lt;em&gt;Red-Charcoal&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Weibo&lt;/strong&gt;：&lt;em&gt;&lt;a href
-      
-    
-    </summary>
-    
-      <category term="other" scheme="http://kuo.lu/categories/other/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Composer 镜像源</title>
     <link href="http://kuo.lu/2019/03/11/composer/"/>
     <id>http://kuo.lu/2019/03/11/composer/</id>
@@ -204,27 +123,28 @@
   </entry>
   
   <entry>
-    <title>Laravel - Cache 清除缓存</title>
-    <link href="http://kuo.lu/2019/01/11/laravel-cache/"/>
-    <id>http://kuo.lu/2019/01/11/laravel-cache/</id>
-    <published>2019-01-10T16:00:00.000Z</published>
-    <updated>2019-05-13T16:48:24.757Z</updated>
+    <title>Vim - 编辑器安装</title>
+    <link href="http://kuo.lu/2018/09/12/vim/"/>
+    <id>http://kuo.lu/2018/09/12/vim/</id>
+    <published>2018-09-11T16:00:00.000Z</published>
+    <updated>2019-05-16T18:09:21.516Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>清除配置缓存</strong></p><p><code>php artisan config:clear</code></p><hr><p><strong>清除各种缓存</strong> ( <em>如页面，Redis，配置文件等缓存</em> )</p><p><code>php artisan cache:clear</code></p><hr><p><strong>清除视图缓存</strong></p><p><code>php artisan view:clear</code></p>]]></content>
+    <content type="html"><![CDATA[<p><strong><em>Centos</em></strong> 默认安装了Vim</p><hr><p>但<strong><em>Vim</em></strong> 编辑器是没安装或者未完全安装的</p><hr><p><strong>检测是否已经安装过Vim</strong>：</p><hr><p><code>$ rpm -qa|grep vim</code></p><p><img src="https://i.loli.net/2019/05/11/5cd6c5118f758.png" alt="想输入的提示名字，可不输入"></p><hr><p>若是<strong>缺少Vim</strong>包名：则使用命令： </p><hr><p>比如说： <strong><em>vim-enhanced</em></strong> 这个包少了</p><hr><p>执行：</p><p><code>$ yum -y install vim-enhanced</code></p><p>会自动下载安装。</p><hr><p>下载完成进行安装： </p><p><code>$ yum -y install vim*</code></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;strong&gt;清除配置缓存&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;php artisan config:clear&lt;/code&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;em&gt;Centos&lt;/em&gt;&lt;/strong&gt; 默认安装了Vim&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;清除各种缓存&lt;/strong&gt; ( &lt;em&gt;如页面，Redis，配置文件等缓存&lt;/em&gt; )&lt;/
+&lt;p&gt;但&lt;strong&gt;&lt;em&gt;Vim&lt;/em&gt;&lt;/strong&gt; 编辑器是没安装或者未完全安装的&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;检测是否已经安装过Vim&lt;/st
       
     
     </summary>
     
-      <category term="Cache" scheme="http://kuo.lu/categories/Cache/"/>
+      <category term="vim" scheme="http://kuo.lu/categories/vim/"/>
     
     
   </entry>
@@ -248,32 +168,6 @@
     </summary>
     
       <category term="php" scheme="http://kuo.lu/categories/php/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Mysql - install 安装及基本命令</title>
-    <link href="http://kuo.lu/2018/08/10/mysql-install/"/>
-    <id>http://kuo.lu/2018/08/10/mysql-install/</id>
-    <published>2018-08-09T16:00:00.000Z</published>
-    <updated>2019-05-13T16:47:24.722Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>Mysql</strong> ( <em>mysql -u root -p访问mysql</em> )</p><hr><p><strong><em>1.下载mysql源安装包</em></strong></p><p><code>wget http://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>2.安装mysql源</em></strong></p><p><code>yum localinstall mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>3.查看是否安装成功</em></strong></p><p><code>yum repolist enabled | grep &quot;mysql.*-community.*&quot;</code></p><hr><p><strong><em>4.这个指令可以修改安装版本(一般不用改，默认安装你的5.7)</em></strong></p><p><code>vim /etc/yum.repos.d/mysql-community.repo</code></p><hr><p><strong><em>5.安装mysql</em></strong></p><p><code>yum install mysql-community-server</code></p><hr><p><strong><em>6.启动MySql</em></strong></p><hr><p><strong>启动</strong></p><p><code>systemctl start mysqld</code></p><p><strong>状态</strong></p><p><code>systemctl status mysqld</code></p><p><strong>重启</strong></p><p><code>/bin/systemctl restart mysqld.service</code></p><hr><p><strong>7.开机自启</strong></p><p><code>systemctl enable mysql</code></p><p><code>systemctl daemon-reload</code></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;strong&gt;Mysql&lt;/strong&gt; ( &lt;em&gt;mysql -u root -p访问mysql&lt;/em&gt; )&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;1.下载mysql源安装包&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;wget http://
-      
-    
-    </summary>
-    
-      <category term="mysql" scheme="http://kuo.lu/categories/mysql/"/>
     
     
   </entry>
@@ -307,6 +201,32 @@
   </entry>
   
   <entry>
+    <title>Mysql - install 安装及基本命令</title>
+    <link href="http://kuo.lu/2018/08/10/mysql-install/"/>
+    <id>http://kuo.lu/2018/08/10/mysql-install/</id>
+    <published>2018-08-09T16:00:00.000Z</published>
+    <updated>2019-05-13T16:47:24.722Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Mysql</strong> ( <em>mysql -u root -p访问mysql</em> )</p><hr><p><strong><em>1.下载mysql源安装包</em></strong></p><p><code>wget http://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>2.安装mysql源</em></strong></p><p><code>yum localinstall mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>3.查看是否安装成功</em></strong></p><p><code>yum repolist enabled | grep &quot;mysql.*-community.*&quot;</code></p><hr><p><strong><em>4.这个指令可以修改安装版本(一般不用改，默认安装你的5.7)</em></strong></p><p><code>vim /etc/yum.repos.d/mysql-community.repo</code></p><hr><p><strong><em>5.安装mysql</em></strong></p><p><code>yum install mysql-community-server</code></p><hr><p><strong><em>6.启动MySql</em></strong></p><hr><p><strong>启动</strong></p><p><code>systemctl start mysqld</code></p><p><strong>状态</strong></p><p><code>systemctl status mysqld</code></p><p><strong>重启</strong></p><p><code>/bin/systemctl restart mysqld.service</code></p><hr><p><strong>7.开机自启</strong></p><p><code>systemctl enable mysql</code></p><p><code>systemctl daemon-reload</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;Mysql&lt;/strong&gt; ( &lt;em&gt;mysql -u root -p访问mysql&lt;/em&gt; )&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;1.下载mysql源安装包&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;wget http://
+      
+    
+    </summary>
+    
+      <category term="mysql" scheme="http://kuo.lu/categories/mysql/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Firewall 基本命令</title>
     <link href="http://kuo.lu/2018/08/09/firewall/"/>
     <id>http://kuo.lu/2018/08/09/firewall/</id>
@@ -329,34 +249,6 @@
     </summary>
     
       <category term="firewall" scheme="http://kuo.lu/categories/firewall/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Xampp - Linux install 安装及基本命令</title>
-    <link href="http://kuo.lu/2018/08/07/linux-install-xampp/"/>
-    <id>http://kuo.lu/2018/08/07/linux-install-xampp/</id>
-    <published>2018-08-06T16:00:00.000Z</published>
-    <updated>2019-05-13T16:48:00.864Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>安装</strong></p><hr><p><strong><em>1、切换到home目录 也可以是别的目录</em></strong></p><p><code># cd /home/</code></p><hr><p><strong><em>2、下载文件</em></strong></p><p><code># sudo wget https://www.apachefriends.org/xampp-files/5.6.31/xampp-linux-x64-5.6.31-0-installer.run</code></p><hr><p><strong><em>3、设置权限</em></strong></p><p><code># chmod 777 xampp-linux-x64-5.6.31-0-installer.run</code></p><hr><p><strong><em>4、运行文件</em></strong></p><p><code>./xampp-linux-x64-5.6.31-0-installer.run</code></p><hr><p><em>运行成功会提示选择一些选项 一路Y即可</em></p><hr><p><strong><em>修改hosts域名解析</em></strong></p><p><code>vim /etc/hosts</code></p><hr><p><strong><em>重启xampp:</em></strong></p><p><code>/opt/lampp/./lampp restart</code></p><hr><p><strong><em>启动xampp：</em></strong></p><p><code>/opt/lampp/./lampp start</code></p><hr><p><strong><em>停止xampp：</em></strong></p><p><code>/opt/lampp/./lampp stop</code></p><hr><p><strong><em>卸载xampp：</em></strong></p><p><code>rm -rf /opt/lampp</code></p><hr><p><strong><em>停止xampp：</em></strong></p><p><code>/opt/lampp/./lampp stop</code></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;strong&gt;安装&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;1、切换到home目录 也可以是别的目录&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;# cd /home/&lt;/code&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;2、
-      
-    
-    </summary>
-    
-      <category term="xampp" scheme="http://kuo.lu/categories/xampp/"/>
     
     
   </entry>
@@ -386,6 +278,32 @@
   </entry>
   
   <entry>
+    <title>PHP - 中英文返回首字母函数</title>
+    <link href="http://kuo.lu/2018/06/29/pinyin/"/>
+    <id>http://kuo.lu/2018/06/29/pinyin/</id>
+    <published>2018-06-28T16:00:00.000Z</published>
+    <updated>2019-05-16T18:18:26.436Z</updated>
+    
+    <content type="html"><![CDATA[<p>使用方法: 将 中文 / 英文 传入方法即可</p><hr><p>Code:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br></pre></td><td class="code"><pre><span class="line">function getFirstCharter($str)&#123;</span><br><span class="line">    if(empty($str))&#123;return &apos;&apos;;&#125;</span><br><span class="line">    $fchar=ord($str&#123;0&#125;);</span><br><span class="line">    if($fchar&gt;=ord(&apos;A&apos;)&amp;&amp;$fchar&lt;=ord(&apos;z&apos;)) return strtoupper($str&#123;0&#125;);</span><br><span class="line">    try&#123;</span><br><span class="line">        $s1=iconv(&apos;UTF-8&apos;,&apos;gb2312&apos;,$str);</span><br><span class="line">        $s2=iconv(&apos;gb2312&apos;,&apos;UTF-8&apos;,$s1);</span><br><span class="line">    &#125;catch (\Exception $e)&#123;</span><br><span class="line">        $s1=iconv(&apos;UTF-8&apos;,&apos;GBK&apos;,$str);</span><br><span class="line">        $s2=iconv(&apos;GBK&apos;,&apos;UTF-8&apos;,$s1);</span><br><span class="line">    &#125;</span><br><span class="line">    $s=$s2==$str?$s1:$str;</span><br><span class="line">    $asc=ord($s&#123;0&#125;)*256+ord($s&#123;1&#125;)-65536;</span><br><span class="line">    if($asc&gt;=-20319&amp;&amp;$asc&lt;=-20284) return &apos;A&apos;;</span><br><span class="line">    if($asc&gt;=-20283&amp;&amp;$asc&lt;=-19776) return &apos;B&apos;;</span><br><span class="line">    if($asc&gt;=-19775&amp;&amp;$asc&lt;=-19219) return &apos;C&apos;;</span><br><span class="line">    if($asc&gt;=-19218&amp;&amp;$asc&lt;=-18711) return &apos;D&apos;;</span><br><span class="line">    if($asc&gt;=-18710&amp;&amp;$asc&lt;=-18527) return &apos;E&apos;;</span><br><span class="line">    if($asc&gt;=-18526&amp;&amp;$asc&lt;=-18240) return &apos;F&apos;;</span><br><span class="line">    if($asc&gt;=-18239&amp;&amp;$asc&lt;=-17923) return &apos;G&apos;;</span><br><span class="line">    if($asc&gt;=-17922&amp;&amp;$asc&lt;=-17418) return &apos;H&apos;;</span><br><span class="line">    if($asc&gt;=-17417&amp;&amp;$asc&lt;=-16475) return &apos;J&apos;;</span><br><span class="line">    if($asc&gt;=-16474&amp;&amp;$asc&lt;=-16213) return &apos;K&apos;;</span><br><span class="line">    if($asc&gt;=-16212&amp;&amp;$asc&lt;=-15641) return &apos;L&apos;;</span><br><span class="line">    if($asc&gt;=-15640&amp;&amp;$asc&lt;=-15166) return &apos;M&apos;;</span><br><span class="line">    if($asc&gt;=-15165&amp;&amp;$asc&lt;=-14923) return &apos;N&apos;;</span><br><span class="line">    if($asc&gt;=-14922&amp;&amp;$asc&lt;=-14915) return &apos;O&apos;;</span><br><span class="line">    if($asc&gt;=-14914&amp;&amp;$asc&lt;=-14631) return &apos;P&apos;;</span><br><span class="line">    if($asc&gt;=-14630&amp;&amp;$asc&lt;=-14150) return &apos;Q&apos;;</span><br><span class="line">    if($asc&gt;=-14149&amp;&amp;$asc&lt;=-14091) return &apos;R&apos;;</span><br><span class="line">    if($asc&gt;=-14090&amp;&amp;$asc&lt;=-13319) return &apos;S&apos;;</span><br><span class="line">    if($asc&gt;=-13318&amp;&amp;$asc&lt;=-12839) return &apos;T&apos;;</span><br><span class="line">    if($asc&gt;=-12838&amp;&amp;$asc&lt;=-12557) return &apos;W&apos;;</span><br><span class="line">    if($asc&gt;=-12556&amp;&amp;$asc&lt;=-11848) return &apos;X&apos;;</span><br><span class="line">    if($asc&gt;=-11847&amp;&amp;$asc&lt;=-11056) return &apos;Y&apos;;</span><br><span class="line">    if($asc&gt;=-11055&amp;&amp;$asc&lt;=-10247) return &apos;Z&apos;;</span><br><span class="line">    return null;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;使用方法: 将 中文 / 英文 传入方法即可&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Code:&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/spa
+      
+    
+    </summary>
+    
+      <category term="php-function" scheme="http://kuo.lu/categories/php-function/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Python 画小猪佩奇</title>
     <link href="http://kuo.lu/2018/06/03/python-peppa-pig/"/>
     <id>http://kuo.lu/2018/06/03/python-peppa-pig/</id>
@@ -405,6 +323,37 @@
     </summary>
     
       <category term="Python" scheme="http://kuo.lu/categories/Python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Format - MD格式</title>
+    <link href="http://kuo.lu/2018/05/14/format/"/>
+    <id>http://kuo.lu/2018/05/14/format/</id>
+    <published>2018-05-13T16:00:00.000Z</published>
+    <updated>2019-05-16T18:09:44.416Z</updated>
+    
+    <content type="html"><![CDATA[<p>标题</p><p><code>title</code></p><hr><p>标签 分类</p><p><code>categories</code></p><hr><p>日期</p><p><code>data</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;标题&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;title&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;标签 分类&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;categories&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;日期&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;data&lt;/code&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="markdown" scheme="http://kuo.lu/categories/markdown/"/>
     
     
   </entry>
@@ -430,6 +379,84 @@
     </summary>
     
       <category term="other" scheme="http://kuo.lu/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Laravel - Cache 清除缓存</title>
+    <link href="http://kuo.lu/2018/01/11/laravel-cache/"/>
+    <id>http://kuo.lu/2018/01/11/laravel-cache/</id>
+    <published>2018-01-10T16:00:00.000Z</published>
+    <updated>2019-05-16T18:10:05.046Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>清除配置缓存</strong></p><p><code>php artisan config:clear</code></p><hr><p><strong>清除各种缓存</strong> ( <em>如页面，Redis，配置文件等缓存</em> )</p><p><code>php artisan cache:clear</code></p><hr><p><strong>清除视图缓存</strong></p><p><code>php artisan view:clear</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;清除配置缓存&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;php artisan config:clear&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;清除各种缓存&lt;/strong&gt; ( &lt;em&gt;如页面，Redis，配置文件等缓存&lt;/em&gt; )&lt;/
+      
+    
+    </summary>
+    
+      <category term="Cache" scheme="http://kuo.lu/categories/Cache/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Xampp - Linux install 安装及基本命令</title>
+    <link href="http://kuo.lu/2017/03/07/linux-install-xampp/"/>
+    <id>http://kuo.lu/2017/03/07/linux-install-xampp/</id>
+    <published>2017-03-06T16:00:00.000Z</published>
+    <updated>2019-05-16T18:10:16.538Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>安装</strong></p><hr><p><strong><em>1、切换到home目录 也可以是别的目录</em></strong></p><p><code># cd /home/</code></p><hr><p><strong><em>2、下载文件</em></strong></p><p><code># sudo wget https://www.apachefriends.org/xampp-files/5.6.31/xampp-linux-x64-5.6.31-0-installer.run</code></p><hr><p><strong><em>3、设置权限</em></strong></p><p><code># chmod 777 xampp-linux-x64-5.6.31-0-installer.run</code></p><hr><p><strong><em>4、运行文件</em></strong></p><p><code>./xampp-linux-x64-5.6.31-0-installer.run</code></p><hr><p><em>运行成功会提示选择一些选项 一路Y即可</em></p><hr><p><strong><em>修改hosts域名解析</em></strong></p><p><code>vim /etc/hosts</code></p><hr><p><strong><em>重启xampp:</em></strong></p><p><code>/opt/lampp/./lampp restart</code></p><hr><p><strong><em>启动xampp：</em></strong></p><p><code>/opt/lampp/./lampp start</code></p><hr><p><strong><em>停止xampp：</em></strong></p><p><code>/opt/lampp/./lampp stop</code></p><hr><p><strong><em>卸载xampp：</em></strong></p><p><code>rm -rf /opt/lampp</code></p><hr><p><strong><em>停止xampp：</em></strong></p><p><code>/opt/lampp/./lampp stop</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;安装&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;1、切换到home目录 也可以是别的目录&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;# cd /home/&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;2、
+      
+    
+    </summary>
+    
+      <category term="xampp" scheme="http://kuo.lu/categories/xampp/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>PHP - Redis 安装及扩展安装</title>
+    <link href="http://kuo.lu/2017/03/01/redis/"/>
+    <id>http://kuo.lu/2017/03/01/redis/</id>
+    <published>2017-02-28T16:00:00.000Z</published>
+    <updated>2019-05-16T18:36:29.206Z</updated>
+    
+    <content type="html"><![CDATA[<p>文章参考:</p><p><a href="https://blog.csdn.net/sinat_15955423/article/details/78920489" target="_blank" rel="noopener">https://blog.csdn.net/sinat_15955423/article/details/78920489</a></p><hr><p><a href="https://blog.csdn.net/leesin2011/article/details/72801629" target="_blank" rel="noopener">https://blog.csdn.net/leesin2011/article/details/72801629</a></p><hr><p><a href="https://www.cnblogs.com/hopelooking/p/6441008.html" target="_blank" rel="noopener">https://www.cnblogs.com/hopelooking/p/6441008.html</a></p><hr><p><a href="https://pecl.php.net/package/redis" target="_blank" rel="noopener">https://pecl.php.net/package/redis</a></p><hr><p>步骤操作:</p><hr><p>1.<a href="https://github.com/MSOpenTech/redis/releases" target="_blank" rel="noopener">点我进入下载</a> redis-x 64-3.2.100.zip</p><hr><p>2.解压到redis目录</p><hr><p>3.cmd 进入redis 目录</p><hr><p>4.使用命令 <strong>启动后勿关闭cmd</strong></p><p><code>redis-server  redis.windows.conf</code></p><hr><p>5.cmd 再次进入redis目录</p><hr><p>6.使用命令</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">set name abc</span><br><span class="line"></span><br><span class="line">get name</span><br></pre></td></tr></table></figure><hr><p>7.安装redis 扩展 <a href="https://pecl.php.net/package/redis" target="_blank" rel="noopener">点我下载</a> DLL下载对应版本 Non Thread Safe(NTS) x64</p><hr><p>8.找到php版本目录 找到ext 把扩展中 <strong>php_redis.dll</strong>  和  <strong>php_redis.pdb</strong> 放入</p><hr><p>9.修改php.ini</p><p><code>extension=php_redis.dll</code></p><p>重启服务</p><hr><p>10.localhost/phpinfo.php</p><hr><p>11.Redis启动命令  进入redis目录</p><hr><p>开启redis</p><p><code>redis-server --service-start</code></p><hr><p>关闭redis</p><p><code>redis-server --service-stop</code></p><hr><p>12.开机自动启动redis</p><p><code>redis-server --service-install redis.windows.conf</code></p><hr><p>可以在计算机管理 服务中查看</p><p><img src="https://i.loli.net/2019/05/17/5cddad058872d75680.png" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;文章参考:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/sinat_15955423/article/details/78920489&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://blog.csdn.net
+      
+    
+    </summary>
+    
+      <category term="redis" scheme="http://kuo.lu/categories/redis/"/>
     
     
   </entry>
@@ -482,6 +509,34 @@
     </summary>
     
       <category term="Mvc" scheme="http://kuo.lu/categories/Mvc/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ab命令 - 网站性能压力测试</title>
+    <link href="http://kuo.lu/2016/06/06/apache-ab/"/>
+    <id>http://kuo.lu/2016/06/06/apache-ab/</id>
+    <published>2016-06-05T16:00:00.000Z</published>
+    <updated>2019-05-16T18:25:51.603Z</updated>
+    
+    <content type="html"><![CDATA[<p>Apache 的 httpd 工具包中提供了apachebench</p><hr><p>可以简单的做网站性能压力测试</p><hr><p><code>ab -n 2000 -c 200 http://www.testsite.com/</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Apache 的 httpd 工具包中提供了apachebench&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;可以简单的做网站性能压力测试&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;code&gt;ab -n 2000 -c 200 http://www.testsite.com/&lt;/code&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="apache" scheme="http://kuo.lu/categories/apache/"/>
     
     
   </entry>
