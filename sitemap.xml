@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kuo.lu/2019/05/13/friends/</loc>
+    
+    <lastmod>2019-05-17T06:34:07.783Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kuo.lu/2018/09/12/vim/</loc>
     
     <lastmod>2019-05-17T02:26:42.402Z</lastmod>
@@ -61,13 +68,6 @@
     <loc>http://kuo.lu/2019/05/11/my/</loc>
     
     <lastmod>2019-05-14T08:20:23.820Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kuo.lu/2019/05/13/friends/</loc>
-    
-    <lastmod>2019-05-14T04:40:33.959Z</lastmod>
     
   </url>
   
