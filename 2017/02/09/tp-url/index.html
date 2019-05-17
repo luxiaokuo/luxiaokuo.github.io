@@ -1,0 +1,41 @@
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns#"><head><meta name="generator" content="Hexo 3.8.0"><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title></title><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/css/chiangmai.css"><meta name="steem:author" content="@stunstunstun"><meta name="fb:app_id" content="1258629384258634"><link rel="search" type="application/opensearchdescription+xml" href="http://kuo.lu/atom.xml" title="Kuo"><script type="text/javascript" src="/js/baidu.js"></script></head><body class="post"><div id="fb-root"></div><div class="wrap"><header><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title></title><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/css/chiangmai.css"><meta name="steem:author" content="@stunstunstun"><meta name="fb:app_id" content="1258629384258634"><link rel="search" type="application/opensearchdescription+xml" href="http://kuo.lu/atom.xml" title="Kuo"><script type="text/javascript" src="/js/baidu.js"></script><!--nav.navi-post--><!--    a.navi-post-back(href="javascript:history.back()")--><!--        i(class="fa fa-arrow-left", aria-hidden="true")--><!--    a.navi-post-home(href=url_for())--><!--        i(class="fa fa-home", aria-hidden="true")--></header><main class="post"><div class="post"><article class="post-block"><h1 class="post-title">Thinkphp - URl访问地址</h1><div class="post-info"><div class="post-info-profile"><a href="/" target="_blank"><img src="/image/profile.jpg"></a></div><div class="post-info-details"><div class="post-categories"><a href="/categories/thinkphp" target="_self"><span>THINKPHP</span></a></div><div class="post-date">Feb 9, 2017</div></div></div><div class="post-share"><div class="fb-like" data-href="http://kuo.lu/2017/02/09/tp-url/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="false">                 </div><div class="fb-share-button" data-href="http://kuo.lu/2017/02/09/tp-url/" data-layout="button" data-size="small" data-mobile-iframe="true"></div><div class="fb-follow" data-href="https://www.facebook.com/holaxprogramming/" data-layout="button_count" data-size="small" data-show-faces="true"></div></div><div class="post-content"><p>访问地址</p>
+<hr>
+<p><strong>1.</strong> <em>基本get模式</em></p>
+<p><code>http://网址/index.php?m=XX &amp;c=XX &amp;a=XX</code></p>
+<hr>
+<p><strong>2.</strong> <em>路径模式pathinfo</em></p>
+<p><code>http://网址/index.php/模块/控制器/操作方法</code></p>
+<hr>
+<p><strong>3.</strong> <em>rewrite重写模式</em></p>
+<p><code>http://网址/模块/控制器/操作方法</code></p>
+<hr>
+<p><strong>4.</strong> <em>兼容模式</em></p>
+<p><code>http://网址/index.php?s=/模块/控制器/方法</code></p>
+<hr>
+<p>具体url地址模式设置(thinkPHP/conf/convertion.php)</p>
+<hr>
+<p><strong>url_model = 0/1/2/3</strong> 分别代表4种url地址模式</p>
+<hr>
+<p>thinkphp_3.2.3_full\Application\Common\Conf\conf.php</p>
+<hr>
+<p>我们当前自己项目的配置文件</p>
+<hr>
+<p>修改conf.php增加配置以后 会把convertion.php里的值覆盖掉</p>
+<hr>
+<p>修改url默认怎么修改</p>
+<hr>
+<p>在 <strong><em>ThinkPHP/Conf/concention.php</em></strong> 配置文件中</p>
+<hr>
+<p><strong>46</strong>-<strong>48</strong>行</p>
+<hr>
+<p>默认模块</p>
+<p><code>&#39;DEFAULT_MODULE&#39;        =&gt;  &#39;Home&#39;,</code></p>
+<hr>
+<p>默认控制器名称</p>
+<p><code>&#39;DEFAULT_CONTROLLER&#39;    =&gt;  &#39;Index&#39;,</code></p>
+<hr>
+<p>默认操作名称</p>
+<p><code>&#39;DEFAULT_ACTION&#39;        =&gt;  &#39;index&#39;,</code></p>
+<hr>
+<p>修改后 <strong>默认模块</strong> 和 <strong>控制器</strong> 和 <strong>操作名称</strong> 就会被更改</p>
+</div></article></div></main><footer><div class="paginator"><a class="prev" href="/2016/12/30/mvc/"><i class="fa fa-arrow-left" aria-hidden="true"></i></a><a class="next" href="/2017/03/01/redis/"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div><ins class="adsbygoogle adsense-bottom" style="display:none" data-ad-client="ca-pub-6188640546219653" data-ad-slot="6129396565" data-ad-format="auto"></ins><div class="fb-comments-area"><div class="fb-comments" data-href="http://kuo.lu/2017/02/09/tp-url/" data-width="700" data-numposts="5"></div></div><div class="copyright fb-comment"><p>© 2016 - 2019 <a href="/" target="_blank">Kuo Lu</a>. Powered by <a href="https://hexo.io/" target="_blank">Hexo</a>.</p></div></footer></div><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>(adsbygoogle = window.adsbygoogle || []).push({});</script><script>window.fbAsyncInit=function(){FB.init({appId:"1258629384258634",cookie:!0,xfbml:!0,version:"v2.8"}),FB.AppEvents.logPageView()},function(e,n,t){var o,c=e.getElementsByTagName(n)[0];e.getElementById(t)||((o=e.createElement(n)).id=t,o.src="//connect.facebook.net/en_US/sdk.js",c.parentNode.insertBefore(o,c))}(document,"script","facebook-jssdk");</script><script>(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;e=o.createElement(i);r=o.getElementsByTagName(i)[0];e.src='//www.google-analytics.com/analytics.js';r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));ga('create','UA-97419941-1','auto');ga('send','pageview');</script></body></html>
