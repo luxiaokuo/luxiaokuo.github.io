@@ -853,7 +853,8 @@ footer .copyright a:hover {
         padding: 10px;
     }
 
-    body{
+    .post-content p{
         font-size:14px;
+        font-weight: bold;
     }
 }
