@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kuo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://kuo.lu/"/>
+  <updated>2019-05-14T04:40:33.959Z</updated>
+  <id>http://kuo.lu/</id>
+  
+  <author>
+    <name>Lu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Friends - 我的朋友们</title>
+    <link href="http://kuo.lu/2019/05/13/friends/"/>
+    <id>http://kuo.lu/2019/05/13/friends/</id>
+    <published>2019-05-12T16:00:00.000Z</published>
+    <updated>2019-05-14T04:40:33.959Z</updated>
+    
+    <content type="html"><![CDATA[<p>排名不分先后</p><hr><p><strong>主机排行榜</strong>  -  ( <em>独立发开发者联盟 - 组建人 <strong><a href="https://cmlanche.com/" target="_blank" rel="noopener">cmlanche</a></strong></em> )</p><hr><p><a href="https://hostingranking.cn/" target="_blank" rel="noopener">https://hostingranking.cn/</a></p><hr><p><strong>钱迹</strong>  -  ( <em>记账小助手 - 作者 <strong><a href="https://weibo.com/u/3319419782" target="_blank" rel="noopener">首富</a></strong></em> )</p><hr><p><a href="http://qianjiapp.com/" target="_blank" rel="noopener">http://qianjiapp.com/</a></p><hr><p><strong>码力全开科技工作室</strong>  -  ( <em>码力全开科技工作室 - 创始人 <strong><a href="https://weibo.com/236601678" target="_blank" rel="noopener">Larry</a></strong></em> )</p><hr><p><a href="https://maliquankai.com/" target="_blank" rel="noopener">https://maliquankai.com/</a></p><hr><p><strong>XcodeBuild</strong>  -  ( <em>阿里前端开发 macOS个人开发</em> )</p><hr><p><a href="https://www.xcodebuild.com/" target="_blank" rel="noopener">https://www.xcodebuild.com/</a></p><hr><p><strong>Codespots</strong>  -  ( <em>React Vue.js 等组件分享社区</em> )</p><hr><p><a href="https://codespots.com/" target="_blank" rel="noopener">https://codespots.com/</a></p><hr><p><strong>Laravel学院</strong>  -  ( <em>Laravel社区 - 站长</em> <strong><em>学院君</em></strong> )</p><hr><p><a href="https://laravelacademy.org/" target="_blank" rel="noopener">https://laravelacademy.org/</a></p><hr><p><strong>learnku</strong>  -  ( <em>PHP IOS Golang Vue.js Python Laravel 综合社区 - 站长</em> <strong><em>Summer</em></strong> )</p><hr><p><a href="https://learnku.com/" target="_blank" rel="noopener">https://learnku.com/</a></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;排名不分先后&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;主机排行榜&lt;/strong&gt;  -  ( &lt;em&gt;独立发开发者联盟 - 组建人 &lt;strong&gt;&lt;a href=&quot;https://cmlanche.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;
+      
+    
+    </summary>
+    
+      <category term="友链" scheme="http://kuo.lu/categories/%E5%8F%8B%E9%93%BE/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>About me - 关于我</title>
+    <link href="http://kuo.lu/2019/05/11/my/"/>
+    <id>http://kuo.lu/2019/05/11/my/</id>
+    <published>2019-05-10T16:00:00.000Z</published>
+    <updated>2019-05-14T08:20:23.820Z</updated>
+    
+    <content type="html"><![CDATA[<p><em><strong>KuoLu</strong></em></p><hr><p><strong>WeChat</strong>: <em>Red-Charcoal</em></p><hr><p><strong>Weibo</strong>：<em><a href="https://weibo.com/5451432140" target="_blank" rel="noopener">偏守</a></em></p><p><img src="https://i.loli.net/2019/05/11/5cd68f7bd1a4a.png" alt="想输入的提示名字，可不输入"></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;em&gt;&lt;strong&gt;KuoLu&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;WeChat&lt;/strong&gt;: &lt;em&gt;Red-Charcoal&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Weibo&lt;/strong&gt;：&lt;em&gt;&lt;a href
+      
+    
+    </summary>
+    
+      <category term="other" scheme="http://kuo.lu/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo - Themes Chiangmai</title>
+    <link href="http://kuo.lu/2019/05/11/hexo-themes/"/>
+    <id>http://kuo.lu/2019/05/11/hexo-themes/</id>
+    <published>2019-05-10T16:00:00.000Z</published>
+    <updated>2019-05-13T16:48:49.653Z</updated>
+    
+    <content type="html"><![CDATA[<p>本站使用<strong>Hexo</strong>搭建</p><p>目前主题采用<em>Chiangmai</em></p><p>在此感谢。</p><hr><p><strong>Hexo</strong> 介绍:</p><pre><code>- 超快速度 - Node.js 所带来的超快生成速度，让上百个页面在几秒内瞬间完成渲染。 - 支持 Markdown - Hexo 支持 GitHub Flavored Markdown 的所有功能，甚至可以整合 Octopress 的大多数插件。 - 一键部署 - 只需一条指令即可部署到 GitHub Pages, Heroku 或其他网站。 - 丰富的插件 - Hexo 拥有强大的插件系统，安装插件可以让 Hexo 支持 Jade, CoffeeScript。</code></pre><hr><p><strong>Code</strong> 部署代码:</p><pre><code>$ npm install hexo-cli -g $ hexo init blog $ cd blog $ npm install $ hexo server</code></pre><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;本站使用&lt;strong&gt;Hexo&lt;/strong&gt;搭建&lt;/p&gt;
+&lt;p&gt;目前主题采用&lt;em&gt;Chiangmai&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;在此感谢。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Hexo&lt;/strong&gt; 介绍:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- 超快速度
+
+ - 
+      
+    
+    </summary>
+    
+      <category term="other" scheme="http://kuo.lu/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Composer 镜像源</title>
+    <link href="http://kuo.lu/2019/03/11/composer/"/>
+    <id>http://kuo.lu/2019/03/11/composer/</id>
+    <published>2019-03-10T16:00:00.000Z</published>
+    <updated>2019-05-13T16:50:19.193Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>composer - 切换国内的镜像源</strong></p><p><code>composer config -g repo.packagist composer https://packagist.phpcomposer.com</code>    </p><hr><p><strong>composer - 取消镜像</strong></p><p><code>composer config -g --unset repos.packagist</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;composer - 切换国内的镜像源&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;composer config -g repo.packagist composer https://packagist.phpcomposer.com&lt;/code&gt;    
+      
+    
+    </summary>
+    
+      <category term="composer" scheme="http://kuo.lu/categories/composer/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Vim - 编辑器安装</title>
+    <link href="http://kuo.lu/2018/09/12/vim/"/>
+    <id>http://kuo.lu/2018/09/12/vim/</id>
+    <published>2018-09-11T16:00:00.000Z</published>
+    <updated>2019-05-17T02:26:42.402Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong><em>Centos</em></strong> 默认安装了Vim</p><hr><p>但<strong><em>Vim</em></strong> 编辑器是没安装或者未完全安装的</p><hr><p><strong>检测是否已经安装过Vim</strong>：</p><hr><p><code>$ rpm -qa|grep vim</code></p><p><img src="https://i.loli.net/2019/05/11/5cd6c5118f758.png" alt="想输入的提示名字，可不输入"></p><hr><p>若是<strong>缺少Vim</strong>包名：则使用命令： </p><hr><p>比如说： <strong><em>vim-enhanced</em></strong> 这个包少了</p><hr><p>执行：</p><p><code>$ yum -y install vim-enhanced</code></p><p>会自动下载安装。</p><hr><p>下载完成进行安装： </p><p><code>$ yum -y install vim*</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;&lt;em&gt;Centos&lt;/em&gt;&lt;/strong&gt; 默认安装了Vim&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;但&lt;strong&gt;&lt;em&gt;Vim&lt;/em&gt;&lt;/strong&gt; 编辑器是没安装或者未完全安装的&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;检测是否已经安装过Vim&lt;/st
+      
+    
+    </summary>
+    
+      <category term="vim" scheme="http://kuo.lu/categories/vim/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>linux 安装 PHP7.2</title>
+    <link href="http://kuo.lu/2018/08/17/php72/"/>
+    <id>http://kuo.lu/2018/08/17/php72/</id>
+    <published>2018-08-16T16:00:00.000Z</published>
+    <updated>2019-05-13T18:06:23.387Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">yum -y remove php*</span><br><span class="line"></span><br><span class="line">rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm</span><br><span class="line"></span><br><span class="line">rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm</span><br><span class="line"></span><br><span class="line">yum -y install php72w php72w-cli php72w-common php72w-devel php72w-embedded php72w-fpm php72w-gd php72w-mbstring php72w-mysqlnd php72w-opcache php72w-pdo php72w-xml</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class
+      
+    
+    </summary>
+    
+      <category term="php" scheme="http://kuo.lu/categories/php/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mysql - install 安装及基本命令</title>
+    <link href="http://kuo.lu/2018/08/10/mysql-install/"/>
+    <id>http://kuo.lu/2018/08/10/mysql-install/</id>
+    <published>2018-08-09T16:00:00.000Z</published>
+    <updated>2019-05-13T16:47:24.722Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Mysql</strong> ( <em>mysql -u root -p访问mysql</em> )</p><hr><p><strong><em>1.下载mysql源安装包</em></strong></p><p><code>wget http://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>2.安装mysql源</em></strong></p><p><code>yum localinstall mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>3.查看是否安装成功</em></strong></p><p><code>yum repolist enabled | grep &quot;mysql.*-community.*&quot;</code></p><hr><p><strong><em>4.这个指令可以修改安装版本(一般不用改，默认安装你的5.7)</em></strong></p><p><code>vim /etc/yum.repos.d/mysql-community.repo</code></p><hr><p><strong><em>5.安装mysql</em></strong></p><p><code>yum install mysql-community-server</code></p><hr><p><strong><em>6.启动MySql</em></strong></p><hr><p><strong>启动</strong></p><p><code>systemctl start mysqld</code></p><p><strong>状态</strong></p><p><code>systemctl status mysqld</code></p><p><strong>重启</strong></p><p><code>/bin/systemctl restart mysqld.service</code></p><hr><p><strong>7.开机自启</strong></p><p><code>systemctl enable mysql</code></p><p><code>systemctl daemon-reload</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;Mysql&lt;/strong&gt; ( &lt;em&gt;mysql -u root -p访问mysql&lt;/em&gt; )&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;1.下载mysql源安装包&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;wget http://
+      
+    
+    </summary>
+    
+      <category term="mysql" scheme="http://kuo.lu/categories/mysql/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Apache 基本命令</title>
+    <link href="http://kuo.lu/2018/08/10/apache/"/>
+    <id>http://kuo.lu/2018/08/10/apache/</id>
+    <published>2018-08-09T16:00:00.000Z</published>
+    <updated>2019-05-13T16:45:49.268Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong><em>基本操作 ( 不定时更新 )</em></strong></p><hr><p><strong>安装</strong>: </p><p><code>yum install httpd httpd-devel</code></p><hr><p><strong>状态</strong>: </p><p><code>systemctl status httpd.service</code></p><hr><p><strong>停止</strong>: </p><p><code>systemctl stop httpd.service</code></p><hr><p><strong>启动</strong>: </p><p><code>systemctl start httpd.service</code></p><hr><p><strong>开启启动</strong>: </p><p><code>systemctl enable httpd.service</code></p><hr><p><strong>重启</strong>: </p><p><code>systemctl restart httpd.service</code></p><hr><p><strong>开机不启动</strong>: </p><p><code>systemctl disable httpd.service</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;&lt;em&gt;基本操作 ( 不定时更新 )&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;安装&lt;/strong&gt;: &lt;/p&gt;
+&lt;p&gt;&lt;code&gt;yum install httpd httpd-devel&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;
+      
+    
+    </summary>
+    
+      <category term="apache" scheme="http://kuo.lu/categories/apache/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Firewall 基本命令</title>
+    <link href="http://kuo.lu/2018/08/09/firewall/"/>
+    <id>http://kuo.lu/2018/08/09/firewall/</id>
+    <published>2018-08-08T16:00:00.000Z</published>
+    <updated>2019-05-13T16:49:56.709Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>查看运行状态</strong></p><p><code>firewall-cmd --state</code></p><hr><p><strong>启动服务</strong></p><p><code>systemctl start firewalld</code></p><hr><p><strong>设为开机启动</strong></p><p><code>systemctl enable firewalld</code></p><hr><p><strong>查看是否启动成功</strong></p><p><code>systemctl status firewalld</code></p><hr><p><strong>重启</strong></p><p><code>firewall-cmd --reload</code></p><hr><p><strong>查看所有端口</strong></p><p><code>firewall-cmd --list-ports</code></p><hr><p><strong>开启80端口</strong></p><p><code>firewall-cmd --zone=public --add-port=80/tcp --permanent</code></p><hr><p><strong>开启3306</strong></p><p><code>firewall-cmd --zone=public --add-port=3306/tcp --permanent</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;查看运行状态&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;firewall-cmd --state&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;启动服务&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;systemctl start firewalld
+      
+    
+    </summary>
+    
+      <category term="firewall" scheme="http://kuo.lu/categories/firewall/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Git - Windows安装及基本命令</title>
+    <link href="http://kuo.lu/2018/07/22/git/"/>
+    <id>http://kuo.lu/2018/07/22/git/</id>
+    <published>2018-07-21T16:00:00.000Z</published>
+    <updated>2019-05-13T16:49:14.287Z</updated>
+    
+    <content type="html"><![CDATA[<p><em><strong>git官网</strong></em></p><p><em><a href="https://git-scm.com/downloads" target="_blank" rel="noopener">https://git-scm.com/downloads</a></em></p><hr><p><em><strong>国内镜像</strong></em></p><p><em><a href="https://pan.baidu.com/s/1kU5OCOB#list/path=%2Fpub%2Fgit" target="_blank" rel="noopener">https://pan.baidu.com/s/1kU5OCOB#list/path=%2Fpub%2Fgit</a></em></p><hr><p><em><strong>分布式版本控制系统</strong></em></p><p>—&gt;   <strong>默认选项安装</strong> 即可。</p><hr><p><em><strong>安装完成后</strong></em></p><p>找到 git -&gt; git bash</p><hr><p><em><strong>输入命令</strong></em></p><p><code>$ git config --global user.name=&quot;Your Name&quot;</code></p><p><code>$ git config --global user.email=&quot;email@example.com&quot;</code></p><hr><p><em><strong>创建版本库</strong></em></p><hr><p><em><strong>创建repository</strong></em></p><p><code>$ mkdir repository</code></p><hr><p><em><strong>切换到repository</strong></em></p><p><code>$ cd repository</code></p><hr><p><em><strong>显示当前路径</strong></em></p><p><code>$ pwd</code></p><hr><p><em><strong>变成Git可以管理的仓库</strong></em></p><p><code>$ git init</code></p><hr><p><strong>_添加文件</strong>_</p><p><code>$ git add filename</code></p><hr><p><em><strong>提交文件  commit可以一次提交很多文件</strong></em></p><p><code>$ git commit -m &quot;luxiaokuo&quot;</code></p><hr><p><em><strong>提交记录</strong></em></p><p><code>$ git log</code></p><hr><p><em><strong>更清晰展现提交记录</strong></em></p><p><code>$ git log --pretty=oneline</code></p><hr><p><em><strong>查看文件</strong></em></p><p><code>$ cat filename</code></p><hr><p>HEAD表示当前版本上一个版本就是HEAD^，上上一个版本就是HEAD^^，当然往上100个版本写100个^比较容易数不过来，所以写成HEAD~100。</p><p>回退上1版本</p><p><code>$ git --hard HEAD^</code></p><p><em><strong>原版号</strong></em></p><p><code>$ git reset --hard</code></p><hr><p><em><strong>关闭终端之后没有版本号的话</strong></em></p><hr><p><em><strong>可查看所有命令记录</strong></em></p><p><code>$ git reflog</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;em&gt;&lt;strong&gt;git官网&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://git-scm.com/downloads&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://git-scm.com/dow
+      
+    
+    </summary>
+    
+      <category term="git" scheme="http://kuo.lu/categories/git/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>PHP - 中英文返回首字母函数</title>
+    <link href="http://kuo.lu/2018/06/29/pinyin/"/>
+    <id>http://kuo.lu/2018/06/29/pinyin/</id>
+    <published>2018-06-28T16:00:00.000Z</published>
+    <updated>2019-05-17T02:26:42.401Z</updated>
+    
+    <content type="html"><![CDATA[<p>使用方法: 将 中文 / 英文 传入方法即可</p><hr><p>Code:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br></pre></td><td class="code"><pre><span class="line">function getFirstCharter($str)&#123;</span><br><span class="line">    if(empty($str))&#123;return &apos;&apos;;&#125;</span><br><span class="line">    $fchar=ord($str&#123;0&#125;);</span><br><span class="line">    if($fchar&gt;=ord(&apos;A&apos;)&amp;&amp;$fchar&lt;=ord(&apos;z&apos;)) return strtoupper($str&#123;0&#125;);</span><br><span class="line">    try&#123;</span><br><span class="line">        $s1=iconv(&apos;UTF-8&apos;,&apos;gb2312&apos;,$str);</span><br><span class="line">        $s2=iconv(&apos;gb2312&apos;,&apos;UTF-8&apos;,$s1);</span><br><span class="line">    &#125;catch (\Exception $e)&#123;</span><br><span class="line">        $s1=iconv(&apos;UTF-8&apos;,&apos;GBK&apos;,$str);</span><br><span class="line">        $s2=iconv(&apos;GBK&apos;,&apos;UTF-8&apos;,$s1);</span><br><span class="line">    &#125;</span><br><span class="line">    $s=$s2==$str?$s1:$str;</span><br><span class="line">    $asc=ord($s&#123;0&#125;)*256+ord($s&#123;1&#125;)-65536;</span><br><span class="line">    if($asc&gt;=-20319&amp;&amp;$asc&lt;=-20284) return &apos;A&apos;;</span><br><span class="line">    if($asc&gt;=-20283&amp;&amp;$asc&lt;=-19776) return &apos;B&apos;;</span><br><span class="line">    if($asc&gt;=-19775&amp;&amp;$asc&lt;=-19219) return &apos;C&apos;;</span><br><span class="line">    if($asc&gt;=-19218&amp;&amp;$asc&lt;=-18711) return &apos;D&apos;;</span><br><span class="line">    if($asc&gt;=-18710&amp;&amp;$asc&lt;=-18527) return &apos;E&apos;;</span><br><span class="line">    if($asc&gt;=-18526&amp;&amp;$asc&lt;=-18240) return &apos;F&apos;;</span><br><span class="line">    if($asc&gt;=-18239&amp;&amp;$asc&lt;=-17923) return &apos;G&apos;;</span><br><span class="line">    if($asc&gt;=-17922&amp;&amp;$asc&lt;=-17418) return &apos;H&apos;;</span><br><span class="line">    if($asc&gt;=-17417&amp;&amp;$asc&lt;=-16475) return &apos;J&apos;;</span><br><span class="line">    if($asc&gt;=-16474&amp;&amp;$asc&lt;=-16213) return &apos;K&apos;;</span><br><span class="line">    if($asc&gt;=-16212&amp;&amp;$asc&lt;=-15641) return &apos;L&apos;;</span><br><span class="line">    if($asc&gt;=-15640&amp;&amp;$asc&lt;=-15166) return &apos;M&apos;;</span><br><span class="line">    if($asc&gt;=-15165&amp;&amp;$asc&lt;=-14923) return &apos;N&apos;;</span><br><span class="line">    if($asc&gt;=-14922&amp;&amp;$asc&lt;=-14915) return &apos;O&apos;;</span><br><span class="line">    if($asc&gt;=-14914&amp;&amp;$asc&lt;=-14631) return &apos;P&apos;;</span><br><span class="line">    if($asc&gt;=-14630&amp;&amp;$asc&lt;=-14150) return &apos;Q&apos;;</span><br><span class="line">    if($asc&gt;=-14149&amp;&amp;$asc&lt;=-14091) return &apos;R&apos;;</span><br><span class="line">    if($asc&gt;=-14090&amp;&amp;$asc&lt;=-13319) return &apos;S&apos;;</span><br><span class="line">    if($asc&gt;=-13318&amp;&amp;$asc&lt;=-12839) return &apos;T&apos;;</span><br><span class="line">    if($asc&gt;=-12838&amp;&amp;$asc&lt;=-12557) return &apos;W&apos;;</span><br><span class="line">    if($asc&gt;=-12556&amp;&amp;$asc&lt;=-11848) return &apos;X&apos;;</span><br><span class="line">    if($asc&gt;=-11847&amp;&amp;$asc&lt;=-11056) return &apos;Y&apos;;</span><br><span class="line">    if($asc&gt;=-11055&amp;&amp;$asc&lt;=-10247) return &apos;Z&apos;;</span><br><span class="line">    return null;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;使用方法: 将 中文 / 英文 传入方法即可&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Code:&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/spa
+      
+    
+    </summary>
+    
+      <category term="php-function" scheme="http://kuo.lu/categories/php-function/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Python 画小猪佩奇</title>
+    <link href="http://kuo.lu/2018/06/03/python-peppa-pig/"/>
+    <id>http://kuo.lu/2018/06/03/python-peppa-pig/</id>
+    <published>2018-06-02T16:00:00.000Z</published>
+    <updated>2019-05-13T16:46:52.829Z</updated>
+    
+    <content type="html"><![CDATA[<p><em>Code:</em></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br><span class="line">123</span><br><span class="line">124</span><br><span class="line">125</span><br><span class="line">126</span><br><span class="line">127</span><br><span class="line">128</span><br><span class="line">129</span><br><span class="line">130</span><br><span class="line">131</span><br><span class="line">132</span><br><span class="line">133</span><br><span class="line">134</span><br><span class="line">135</span><br><span class="line">136</span><br><span class="line">137</span><br><span class="line">138</span><br><span class="line">139</span><br><span class="line">140</span><br><span class="line">141</span><br><span class="line">142</span><br><span class="line">143</span><br><span class="line">144</span><br><span class="line">145</span><br><span class="line">146</span><br><span class="line">147</span><br><span class="line">148</span><br><span class="line">149</span><br><span class="line">150</span><br><span class="line">151</span><br><span class="line">152</span><br><span class="line">153</span><br><span class="line">154</span><br><span class="line">155</span><br><span class="line">156</span><br><span class="line">157</span><br><span class="line">158</span><br><span class="line">159</span><br><span class="line">160</span><br><span class="line">161</span><br><span class="line">162</span><br><span class="line">163</span><br><span class="line">164</span><br><span class="line">165</span><br><span class="line">166</span><br><span class="line">167</span><br><span class="line">168</span><br><span class="line">169</span><br><span class="line">170</span><br><span class="line">171</span><br><span class="line">172</span><br><span class="line">173</span><br><span class="line">174</span><br><span class="line">175</span><br><span class="line">176</span><br><span class="line">177</span><br><span class="line">178</span><br><span class="line">179</span><br><span class="line">180</span><br><span class="line">181</span><br><span class="line">182</span><br><span class="line">183</span><br><span class="line">184</span><br><span class="line">185</span><br><span class="line">186</span><br><span class="line">187</span><br><span class="line">188</span><br><span class="line">189</span><br><span class="line">190</span><br><span class="line">191</span><br><span class="line">192</span><br><span class="line">193</span><br><span class="line">194</span><br><span class="line">195</span><br><span class="line">196</span><br><span class="line">197</span><br><span class="line">198</span><br><span class="line">199</span><br><span class="line">200</span><br><span class="line">201</span><br><span class="line">202</span><br><span class="line">203</span><br><span class="line">204</span><br><span class="line">205</span><br><span class="line">206</span><br><span class="line">207</span><br><span class="line">208</span><br><span class="line">209</span><br><span class="line">210</span><br><span class="line">211</span><br><span class="line">212</span><br><span class="line">213</span><br><span class="line">214</span><br><span class="line">215</span><br><span class="line">216</span><br><span class="line">217</span><br><span class="line">218</span><br><span class="line">219</span><br><span class="line">220</span><br><span class="line">221</span><br><span class="line">222</span><br><span class="line">223</span><br><span class="line">224</span><br><span class="line">225</span><br><span class="line">226</span><br><span class="line">227</span><br><span class="line">228</span><br><span class="line">229</span><br><span class="line">230</span><br><span class="line">231</span><br><span class="line">232</span><br><span class="line">233</span><br><span class="line">234</span><br><span class="line">235</span><br><span class="line">236</span><br><span class="line">237</span><br><span class="line">238</span><br><span class="line">239</span><br><span class="line">240</span><br><span class="line">241</span><br><span class="line">242</span><br><span class="line">243</span><br><span class="line">244</span><br><span class="line">245</span><br><span class="line">246</span><br><span class="line">247</span><br><span class="line">248</span><br><span class="line">249</span><br><span class="line">250</span><br><span class="line">251</span><br><span class="line">252</span><br><span class="line">253</span><br><span class="line">254</span><br><span class="line">255</span><br><span class="line">256</span><br><span class="line">257</span><br><span class="line">258</span><br><span class="line">259</span><br><span class="line">260</span><br><span class="line">261</span><br><span class="line">262</span><br><span class="line">263</span><br><span class="line">264</span><br><span class="line">265</span><br><span class="line">266</span><br><span class="line">267</span><br><span class="line">268</span><br><span class="line">269</span><br><span class="line">270</span><br><span class="line">271</span><br><span class="line">272</span><br><span class="line">273</span><br><span class="line">274</span><br><span class="line">275</span><br><span class="line">276</span><br><span class="line">277</span><br><span class="line">278</span><br><span class="line">279</span><br><span class="line">280</span><br><span class="line">281</span><br><span class="line">282</span><br><span class="line">283</span><br><span class="line">284</span><br><span class="line">285</span><br><span class="line">286</span><br></pre></td><td class="code"><pre><span class="line"># coding:utf-8</span><br><span class="line">import turtle as t</span><br><span class="line"></span><br><span class="line">t.pensize(4)</span><br><span class="line">t.hideturtle()</span><br><span class="line">t.colormode(255)</span><br><span class="line">t.color((255,155,192),&quot;pink&quot;)</span><br><span class="line">t.setup(840,500)</span><br><span class="line">t.speed(10)</span><br><span class="line"></span><br><span class="line">#鼻子</span><br><span class="line">t.pu()</span><br><span class="line">t.goto(-100,100)</span><br><span class="line">t.pd()</span><br><span class="line">t.seth(-30)</span><br><span class="line">t.begin_fill()</span><br><span class="line">a=0.4</span><br><span class="line">for i in range(120):</span><br><span class="line">    if 0&lt;=i&lt;30 or 60&lt;=i&lt;90:</span><br><span class="line">        a=a+0.08</span><br><span class="line">        t.lt(3) #向左转3度</span><br><span class="line">        t.fd(a) #向前走a的步长</span><br><span class="line">    else:</span><br><span class="line">        a=a-0.08</span><br><span class="line">        t.lt(3)</span><br><span class="line">        t.fd(a)</span><br><span class="line">t.end_fill()</span><br><span class="line"></span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(25)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(10)</span><br><span class="line">t.pd()</span><br><span class="line">t.pencolor(255,155,192)</span><br><span class="line">t.seth(10)</span><br><span class="line">t.begin_fill()</span><br><span class="line">t.circle(5)</span><br><span class="line">t.color(160,82,45)</span><br><span class="line">t.end_fill()</span><br><span class="line"></span><br><span class="line">t.pu()</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(20)</span><br><span class="line">t.pd()</span><br><span class="line">t.pencolor(255,155,192)</span><br><span class="line">t.seth(10)</span><br><span class="line">t.begin_fill()</span><br><span class="line">t.circle(5)</span><br><span class="line">t.color(160,82,45)</span><br><span class="line">t.end_fill()</span><br><span class="line"></span><br><span class="line">#头</span><br><span class="line">t.color((255,155,192),&quot;pink&quot;)</span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(41)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(0)</span><br><span class="line">t.pd()</span><br><span class="line">t.begin_fill()</span><br><span class="line">t.seth(180)</span><br><span class="line">t.circle(300,-30)</span><br><span class="line">t.circle(100,-60)</span><br><span class="line">t.circle(80,-100)</span><br><span class="line">t.circle(150,-20)</span><br><span class="line">t.circle(60,-95)</span><br><span class="line">t.seth(161)</span><br><span class="line">t.circle(-300,15)</span><br><span class="line">t.pu()</span><br><span class="line">t.goto(-100,100)</span><br><span class="line">t.pd()</span><br><span class="line">t.seth(-30)</span><br><span class="line">a=0.4</span><br><span class="line">for i in range(60):</span><br><span class="line">    if 0&lt;=i&lt;30 or 60&lt;=i&lt;90:</span><br><span class="line">        a=a+0.08</span><br><span class="line">        t.lt(3) #向左转3度</span><br><span class="line">        t.fd(a) #向前走a的步长</span><br><span class="line">    else:</span><br><span class="line">        a=a-0.08</span><br><span class="line">        t.lt(3)</span><br><span class="line">        t.fd(a)</span><br><span class="line">t.end_fill()</span><br><span class="line"></span><br><span class="line">#耳朵</span><br><span class="line">t.color((255,155,192),&quot;pink&quot;)</span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(-7)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(70)</span><br><span class="line">t.pd()</span><br><span class="line">t.begin_fill()</span><br><span class="line">t.seth(100)</span><br><span class="line">t.circle(-50,50)</span><br><span class="line">t.circle(-10,120)</span><br><span class="line">t.circle(-50,54)</span><br><span class="line">t.end_fill()</span><br><span class="line"></span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(-12)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(30)</span><br><span class="line">t.pd()</span><br><span class="line">t.begin_fill()</span><br><span class="line">t.seth(100)</span><br><span class="line">t.circle(-50,50)</span><br><span class="line">t.circle(-10,120)</span><br><span class="line">t.circle(-50,56)</span><br><span class="line">t.end_fill()</span><br><span class="line"></span><br><span class="line">#眼睛</span><br><span class="line">t.color((255,155,192),&quot;white&quot;)</span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(-20)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(-95)</span><br><span class="line">t.pd()</span><br><span class="line">t.begin_fill()</span><br><span class="line">t.circle(15)</span><br><span class="line">t.end_fill()</span><br><span class="line"></span><br><span class="line">t.color(&quot;black&quot;)</span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(12)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(-3)</span><br><span class="line">t.pd()</span><br><span class="line">t.begin_fill()</span><br><span class="line">t.circle(3)</span><br><span class="line">t.end_fill()</span><br><span class="line"></span><br><span class="line">t.color((255,155,192),&quot;white&quot;)</span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(-25)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(40)</span><br><span class="line">t.pd()</span><br><span class="line">t.begin_fill()</span><br><span class="line">t.circle(15)</span><br><span class="line">t.end_fill()</span><br><span class="line"></span><br><span class="line">t.color(&quot;black&quot;)</span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(12)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(-3)</span><br><span class="line">t.pd()</span><br><span class="line">t.begin_fill()</span><br><span class="line">t.circle(3)</span><br><span class="line">t.end_fill()</span><br><span class="line"></span><br><span class="line">#腮</span><br><span class="line">t.color((255,155,192))</span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(-95)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(65)</span><br><span class="line">t.pd()</span><br><span class="line">t.begin_fill()</span><br><span class="line">t.circle(30)</span><br><span class="line">t.end_fill()</span><br><span class="line"></span><br><span class="line">#嘴</span><br><span class="line">t.color(239,69,19)</span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(15)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(-100)</span><br><span class="line">t.pd()</span><br><span class="line">t.seth(-80)</span><br><span class="line">t.circle(30,40)</span><br><span class="line">t.circle(40,80)</span><br><span class="line"></span><br><span class="line">#身体</span><br><span class="line">t.color(&quot;red&quot;,(255,99,71))</span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(-20)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(-78)</span><br><span class="line">t.pd()</span><br><span class="line">t.begin_fill()</span><br><span class="line">t.seth(-130)</span><br><span class="line">t.circle(100,10)</span><br><span class="line">t.circle(300,30)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(230)</span><br><span class="line">t.seth(90)</span><br><span class="line">t.circle(300,30)</span><br><span class="line">t.circle(100,3)</span><br><span class="line">t.color((255,155,192),(255,100,100))</span><br><span class="line">t.seth(-135)</span><br><span class="line">t.circle(-80,63)</span><br><span class="line">t.circle(-150,24)</span><br><span class="line">t.end_fill()</span><br><span class="line"></span><br><span class="line">#手</span><br><span class="line">t.color((255,155,192))</span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(-40)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(-27)</span><br><span class="line">t.pd()</span><br><span class="line">t.seth(-160)</span><br><span class="line">t.circle(300,15)</span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(15)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(0)</span><br><span class="line">t.pd()</span><br><span class="line">t.seth(-10)</span><br><span class="line">t.circle(-20,90)</span><br><span class="line"></span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(30)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(237)</span><br><span class="line">t.pd()</span><br><span class="line">t.seth(-20)</span><br><span class="line">t.circle(-300,15)</span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(20)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(0)</span><br><span class="line">t.pd()</span><br><span class="line">t.seth(-170)</span><br><span class="line">t.circle(20,90)</span><br><span class="line"></span><br><span class="line">#脚</span><br><span class="line">t.pensize(10)</span><br><span class="line">t.color((240,128,128))</span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(-75)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(-180)</span><br><span class="line">t.pd()</span><br><span class="line">t.seth(-90)</span><br><span class="line">t.fd(40)</span><br><span class="line">t.seth(-180)</span><br><span class="line">t.color(&quot;black&quot;)</span><br><span class="line">t.pensize(15)</span><br><span class="line">t.fd(20)</span><br><span class="line"></span><br><span class="line">t.pensize(10)</span><br><span class="line">t.color((240,128,128))</span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(40)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(90)</span><br><span class="line">t.pd()</span><br><span class="line">t.seth(-90)</span><br><span class="line">t.fd(40)</span><br><span class="line">t.seth(-180)</span><br><span class="line">t.color(&quot;black&quot;)</span><br><span class="line">t.pensize(15)</span><br><span class="line">t.fd(20)</span><br><span class="line"></span><br><span class="line">#尾巴</span><br><span class="line">t.pensize(4)</span><br><span class="line">t.color((255,155,192))</span><br><span class="line">t.pu()</span><br><span class="line">t.seth(90)</span><br><span class="line">t.fd(70)</span><br><span class="line">t.seth(0)</span><br><span class="line">t.fd(95)</span><br><span class="line">t.pd()</span><br><span class="line">t.seth(0)</span><br><span class="line">t.circle(70,20)</span><br><span class="line">t.circle(10,330)</span><br><span class="line">t.circle(70,30)</span><br><span class="line">t.done()</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;em&gt;Code:&lt;/em&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2
+      
+    
+    </summary>
+    
+      <category term="Python" scheme="http://kuo.lu/categories/Python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Format - MD格式</title>
+    <link href="http://kuo.lu/2018/05/14/format/"/>
+    <id>http://kuo.lu/2018/05/14/format/</id>
+    <published>2018-05-13T16:00:00.000Z</published>
+    <updated>2019-05-17T02:26:42.398Z</updated>
+    
+    <content type="html"><![CDATA[<p>标题</p><p><code>title</code></p><hr><p>标签 分类</p><p><code>categories</code></p><hr><p>日期</p><p><code>data</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;标题&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;title&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;标签 分类&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;categories&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;日期&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;data&lt;/code&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="markdown" scheme="http://kuo.lu/categories/markdown/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>全站悼念</title>
+    <link href="http://kuo.lu/2018/04/29/site-gray/"/>
+    <id>http://kuo.lu/2018/04/29/site-gray/</id>
+    <published>2018-04-28T16:00:00.000Z</published>
+    <updated>2019-05-13T17:09:48.411Z</updated>
+    
+    <content type="html"><![CDATA[<p><em>Code:</em></p><hr><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">html&#123;</span><br><span class="line">    filter: grayscale(100%);</span><br><span class="line">     -webkit-filter: grayscale(100%);</span><br><span class="line">    -moz-filter: grayscale(100%);</span><br><span class="line">    -ms-filter: grayscale(100%);</span><br><span class="line">    -o-filter: grayscale(100%);</span><br><span class="line">    filter: url(&quot;data:image/svg+xml;utf8,&lt;svg xmlns=\&quot;http://www.w3.org/2000/svg\&quot;&gt;&lt;filter id=\&quot;grayscale\&quot;&gt;&lt;feColorMatrix type=\&quot;matrix\&quot; values=\&quot;0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\&quot;/&gt;&lt;/filter&gt;&lt;/svg&gt;#grayscale&quot;);</span><br><span class="line">    filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);</span><br><span class="line">    filter: gray;</span><br><span class="line">    -webkit-filter: grayscale(1);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;em&gt;Code:&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;li
+      
+    
+    </summary>
+    
+      <category term="other" scheme="http://kuo.lu/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Laravel - Cache 清除缓存</title>
+    <link href="http://kuo.lu/2018/01/11/laravel-cache/"/>
+    <id>http://kuo.lu/2018/01/11/laravel-cache/</id>
+    <published>2018-01-10T16:00:00.000Z</published>
+    <updated>2019-05-17T02:26:42.400Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>清除配置缓存</strong></p><p><code>php artisan config:clear</code></p><hr><p><strong>清除各种缓存</strong> ( <em>如页面，Redis，配置文件等缓存</em> )</p><p><code>php artisan cache:clear</code></p><hr><p><strong>清除视图缓存</strong></p><p><code>php artisan view:clear</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;清除配置缓存&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;php artisan config:clear&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;清除各种缓存&lt;/strong&gt; ( &lt;em&gt;如页面，Redis，配置文件等缓存&lt;/em&gt; )&lt;/
+      
+    
+    </summary>
+    
+      <category term="Cache" scheme="http://kuo.lu/categories/Cache/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Xampp - Linux install 安装及基本命令</title>
+    <link href="http://kuo.lu/2017/03/07/linux-install-xampp/"/>
+    <id>http://kuo.lu/2017/03/07/linux-install-xampp/</id>
+    <published>2017-03-06T16:00:00.000Z</published>
+    <updated>2019-05-17T02:26:42.400Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>安装</strong></p><hr><p><strong><em>1、切换到home目录 也可以是别的目录</em></strong></p><p><code># cd /home/</code></p><hr><p><strong><em>2、下载文件</em></strong></p><p><code># sudo wget https://www.apachefriends.org/xampp-files/5.6.31/xampp-linux-x64-5.6.31-0-installer.run</code></p><hr><p><strong><em>3、设置权限</em></strong></p><p><code># chmod 777 xampp-linux-x64-5.6.31-0-installer.run</code></p><hr><p><strong><em>4、运行文件</em></strong></p><p><code>./xampp-linux-x64-5.6.31-0-installer.run</code></p><hr><p><em>运行成功会提示选择一些选项 一路Y即可</em></p><hr><p><strong><em>修改hosts域名解析</em></strong></p><p><code>vim /etc/hosts</code></p><hr><p><strong><em>重启xampp:</em></strong></p><p><code>/opt/lampp/./lampp restart</code></p><hr><p><strong><em>启动xampp：</em></strong></p><p><code>/opt/lampp/./lampp start</code></p><hr><p><strong><em>停止xampp：</em></strong></p><p><code>/opt/lampp/./lampp stop</code></p><hr><p><strong><em>卸载xampp：</em></strong></p><p><code>rm -rf /opt/lampp</code></p><hr><p><strong><em>停止xampp：</em></strong></p><p><code>/opt/lampp/./lampp stop</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;安装&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;1、切换到home目录 也可以是别的目录&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;# cd /home/&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;2、
+      
+    
+    </summary>
+    
+      <category term="xampp" scheme="http://kuo.lu/categories/xampp/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>PHP - Redis 安装及扩展安装</title>
+    <link href="http://kuo.lu/2017/03/01/redis/"/>
+    <id>http://kuo.lu/2017/03/01/redis/</id>
+    <published>2017-02-28T16:00:00.000Z</published>
+    <updated>2019-05-17T02:26:42.401Z</updated>
+    
+    <content type="html"><![CDATA[<p>文章参考:</p><p><a href="https://blog.csdn.net/sinat_15955423/article/details/78920489" target="_blank" rel="noopener">https://blog.csdn.net/sinat_15955423/article/details/78920489</a></p><hr><p><a href="https://blog.csdn.net/leesin2011/article/details/72801629" target="_blank" rel="noopener">https://blog.csdn.net/leesin2011/article/details/72801629</a></p><hr><p><a href="https://www.cnblogs.com/hopelooking/p/6441008.html" target="_blank" rel="noopener">https://www.cnblogs.com/hopelooking/p/6441008.html</a></p><hr><p><a href="https://pecl.php.net/package/redis" target="_blank" rel="noopener">https://pecl.php.net/package/redis</a></p><hr><p>步骤操作:</p><hr><p>1.<a href="https://github.com/MSOpenTech/redis/releases" target="_blank" rel="noopener">点我进入下载</a> redis-x 64-3.2.100.zip</p><hr><p>2.解压到redis目录</p><hr><p>3.cmd 进入redis 目录</p><hr><p>4.使用命令 <strong>启动后勿关闭cmd</strong></p><p><code>redis-server  redis.windows.conf</code></p><hr><p>5.cmd 再次进入redis目录</p><hr><p>6.使用命令</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">set name abc</span><br><span class="line"></span><br><span class="line">get name</span><br></pre></td></tr></table></figure><hr><p>7.安装redis 扩展 <a href="https://pecl.php.net/package/redis" target="_blank" rel="noopener">点我下载</a> DLL下载对应版本 Non Thread Safe(NTS) x64</p><hr><p>8.找到php版本目录 找到ext 把扩展中 <strong>php_redis.dll</strong>  和  <strong>php_redis.pdb</strong> 放入</p><hr><p>9.修改php.ini</p><p><code>extension=php_redis.dll</code></p><p>重启服务</p><hr><p>10.localhost/phpinfo.php</p><hr><p>11.Redis启动命令  进入redis目录</p><hr><p>开启redis</p><p><code>redis-server --service-start</code></p><hr><p>关闭redis</p><p><code>redis-server --service-stop</code></p><hr><p>12.开机自动启动redis</p><p><code>redis-server --service-install redis.windows.conf</code></p><hr><p>可以在计算机管理 服务中查看</p><p><img src="https://i.loli.net/2019/05/17/5cddad058872d75680.png" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;文章参考:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/sinat_15955423/article/details/78920489&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://blog.csdn.net
+      
+    
+    </summary>
+    
+      <category term="redis" scheme="http://kuo.lu/categories/redis/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Thinkphp - URl访问地址</title>
+    <link href="http://kuo.lu/2017/02/09/tp-url/"/>
+    <id>http://kuo.lu/2017/02/09/tp-url/</id>
+    <published>2017-02-08T16:00:00.000Z</published>
+    <updated>2019-05-13T17:42:39.716Z</updated>
+    
+    <content type="html"><![CDATA[<p>访问地址</p><hr><p><strong>1.</strong> <em>基本get模式</em></p><p><code>http://网址/index.php?m=XX &amp;c=XX &amp;a=XX</code></p><hr><p><strong>2.</strong> <em>路径模式pathinfo</em></p><p><code>http://网址/index.php/模块/控制器/操作方法</code></p><hr><p><strong>3.</strong> <em>rewrite重写模式</em></p><p><code>http://网址/模块/控制器/操作方法</code></p><hr><p><strong>4.</strong> <em>兼容模式</em></p><p><code>http://网址/index.php?s=/模块/控制器/方法</code></p><hr><p>具体url地址模式设置(thinkPHP/conf/convertion.php)</p><hr><p><strong>url_model = 0/1/2/3</strong> 分别代表4种url地址模式</p><hr><p>thinkphp_3.2.3_full\Application\Common\Conf\conf.php</p><hr><p>我们当前自己项目的配置文件</p><hr><p>修改conf.php增加配置以后 会把convertion.php里的值覆盖掉</p><hr><p>修改url默认怎么修改</p><hr><p>在 <strong><em>ThinkPHP/Conf/concention.php</em></strong> 配置文件中</p><hr><p><strong>46</strong>-<strong>48</strong>行</p><hr><p>默认模块</p><p><code>&#39;DEFAULT_MODULE&#39;        =&gt;  &#39;Home&#39;,</code></p><hr><p>默认控制器名称</p><p><code>&#39;DEFAULT_CONTROLLER&#39;    =&gt;  &#39;Index&#39;,</code></p><hr><p>默认操作名称</p><p><code>&#39;DEFAULT_ACTION&#39;        =&gt;  &#39;index&#39;,</code></p><hr><p>修改后 <strong>默认模块</strong> 和 <strong>控制器</strong> 和 <strong>操作名称</strong> 就会被更改</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;访问地址&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; &lt;em&gt;基本get模式&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;http://网址/index.php?m=XX &amp;amp;c=XX &amp;amp;a=XX&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;stron
+      
+    
+    </summary>
+    
+      <category term="thinkphp" scheme="http://kuo.lu/categories/thinkphp/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mvc</title>
+    <link href="http://kuo.lu/2016/12/30/mvc/"/>
+    <id>http://kuo.lu/2016/12/30/mvc/</id>
+    <published>2016-12-29T16:00:00.000Z</published>
+    <updated>2019-05-14T04:38:35.763Z</updated>
+    
+    <content type="html"><![CDATA[<p>介绍:</p><p>MVC全名是Model View Controller，是模型(model)－视图(view)－控制器(controller)的缩写，一种软件设计典范，用一种业务逻辑、数据、界面显示分离的方法组织代码，将业务逻辑聚集到一个部件里面，在改进和个性化定制界面及用户交互的同时，不需要重新编写业务逻辑。MVC被独特的发展起来用于映射传统的输入、处理和输出功能在一个逻辑的图形化用户界面的结构中。</p><hr><p>产生时间: <strong>1982</strong> 年</p><hr><p><strong><em>M - 模型</em></strong></p><p><code>Model</code></p><hr><p><strong><em>V - 视图</em></strong></p><p><code>View</code></p><hr><p><strong><em>C - 控制器</em></strong></p><p><code>Controller</code></p><hr><p><img src="https://i.loli.net/2019/05/14/5cd9a974410b370782.gif" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;介绍:&lt;/p&gt;
+&lt;p&gt;MVC全名是Model View Controller，是模型(model)－视图(view)－控制器(controller)的缩写，一种软件设计典范，用一种业务逻辑、数据、界面显示分离的方法组织代码，将业务逻辑聚集到一个部件里面，在改进和个性化定制界
+      
+    
+    </summary>
+    
+      <category term="Mvc" scheme="http://kuo.lu/categories/Mvc/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ab命令 - 网站性能压力测试</title>
+    <link href="http://kuo.lu/2016/06/06/apache-ab/"/>
+    <id>http://kuo.lu/2016/06/06/apache-ab/</id>
+    <published>2016-06-05T16:00:00.000Z</published>
+    <updated>2019-05-17T02:26:42.397Z</updated>
+    
+    <content type="html"><![CDATA[<p>Apache 的 httpd 工具包中提供了apachebench</p><hr><p>可以简单的做网站性能压力测试</p><hr><p><code>ab -n 2000 -c 200 http://www.testsite.com/</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Apache 的 httpd 工具包中提供了apachebench&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;可以简单的做网站性能压力测试&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;code&gt;ab -n 2000 -c 200 http://www.testsite.com/&lt;/code&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="apache" scheme="http://kuo.lu/categories/apache/"/>
+    
+    
+  </entry>
+  
+</feed>
