@@ -2,7 +2,7 @@
 
 title: Friends - 我的朋友们
 
-categories: 友链
+categories: friends
 
 date: 2019-05-13
 
@@ -25,7 +25,6 @@ https://hostingranking.cn/
 ---
 
 http://qianjiapp.com/
-
 
 ---
 
