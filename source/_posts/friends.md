@@ -2,7 +2,7 @@
 
 title: Friends - 我的朋友们
 
-categories: friends
+categories: 朋友
 
 date: 2019-05-13
 
