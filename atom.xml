@@ -42,6 +42,33 @@
   </entry>
   
   <entry>
+    <title>About me - 关于我</title>
+    <link href="http://kuo.lu/2019/05/11/my/"/>
+    <id>http://kuo.lu/2019/05/11/my/</id>
+    <published>2019-05-10T16:00:00.000Z</published>
+    <updated>2019-05-14T08:20:23.820Z</updated>
+    
+    <content type="html"><![CDATA[<p><em><strong>KuoLu</strong></em></p><hr><p><strong>WeChat</strong>: <em>Red-Charcoal</em></p><hr><p><strong>Weibo</strong>：<em><a href="https://weibo.com/5451432140" target="_blank" rel="noopener">偏守</a></em></p><p><img src="https://i.loli.net/2019/05/11/5cd68f7bd1a4a.png" alt="想输入的提示名字，可不输入"></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;em&gt;&lt;strong&gt;KuoLu&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;WeChat&lt;/strong&gt;: &lt;em&gt;Red-Charcoal&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Weibo&lt;/strong&gt;：&lt;em&gt;&lt;a href
+      
+    
+    </summary>
+    
+      <category term="other" scheme="http://kuo.lu/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hexo - Themes Chiangmai</title>
     <link href="http://kuo.lu/2019/05/11/hexo-themes/"/>
     <id>http://kuo.lu/2019/05/11/hexo-themes/</id>
@@ -62,33 +89,6 @@
 &lt;pre&gt;&lt;code&gt;- 超快速度
 
  - 
-      
-    
-    </summary>
-    
-      <category term="other" scheme="http://kuo.lu/categories/other/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>About me - 关于我</title>
-    <link href="http://kuo.lu/2019/05/11/my/"/>
-    <id>http://kuo.lu/2019/05/11/my/</id>
-    <published>2019-05-10T16:00:00.000Z</published>
-    <updated>2019-05-14T08:20:23.820Z</updated>
-    
-    <content type="html"><![CDATA[<p><em><strong>KuoLu</strong></em></p><hr><p><strong>WeChat</strong>: <em>Red-Charcoal</em></p><hr><p><strong>Weibo</strong>：<em><a href="https://weibo.com/5451432140" target="_blank" rel="noopener">偏守</a></em></p><p><img src="https://i.loli.net/2019/05/11/5cd68f7bd1a4a.png" alt="想输入的提示名字，可不输入"></p><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;em&gt;&lt;strong&gt;KuoLu&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;WeChat&lt;/strong&gt;: &lt;em&gt;Red-Charcoal&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Weibo&lt;/strong&gt;：&lt;em&gt;&lt;a href
       
     
     </summary>
