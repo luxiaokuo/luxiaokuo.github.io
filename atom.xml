@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kuo.lu/"/>
-  <updated>2019-05-17T10:08:54.045Z</updated>
+  <updated>2019-05-17T10:32:41.065Z</updated>
   <id>http://kuo.lu/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://kuo.lu/2019/05/13/friends/"/>
     <id>http://kuo.lu/2019/05/13/friends/</id>
     <published>2019-05-12T16:00:00.000Z</published>
-    <updated>2019-05-17T10:08:54.045Z</updated>
+    <updated>2019-05-17T10:32:41.065Z</updated>
     
     <content type="html"><![CDATA[<p>排名不分先后</p><hr><p><strong>主机排行榜</strong>  -  ( <em>独立发开发者联盟 - 组建人 <strong><a href="https://cmlanche.com/" target="_blank" rel="noopener">cmlanche</a></strong></em> )</p><hr><p><a href="https://hostingranking.cn/" target="_blank" rel="noopener">https://hostingranking.cn/</a></p><hr><p><strong>钱迹</strong>  -  ( <em>记账小助手 - 作者 <strong><a href="https://weibo.com/u/3319419782" target="_blank" rel="noopener">首富</a></strong></em> )</p><hr><p><a href="http://qianjiapp.com/" target="_blank" rel="noopener">http://qianjiapp.com/</a></p><hr><p><strong>码力全开科技工作室</strong>  -  ( <em>码力全开科技工作室 - 创始人 <strong><a href="https://weibo.com/236601678" target="_blank" rel="noopener">Larry</a></strong></em> )</p><hr><p><a href="https://maliquankai.com/" target="_blank" rel="noopener">https://maliquankai.com/</a></p><hr><p><strong>XcodeBuild</strong>  -  ( <em>阿里前端开发 macOS个人开发</em> )</p><hr><p><a href="https://www.xcodebuild.com/" target="_blank" rel="noopener">https://www.xcodebuild.com/</a></p><hr><p><strong>Codespots</strong>  -  ( <em>React Vue.js 等组件分享社区</em> )</p><hr><p><a href="https://codespots.com/" target="_blank" rel="noopener">https://codespots.com/</a></p><hr><p><strong>Laravel学院</strong>  -  ( <em>Laravel社区 - 站长</em> <strong><em>学院君</em></strong> )</p><hr><p><a href="https://laravelacademy.org/" target="_blank" rel="noopener">https://laravelacademy.org/</a></p><hr><p><strong>learnku</strong>  -  ( <em>PHP IOS Golang Vue.js Python Laravel 综合社区 - 站长</em> <strong><em>Summer</em></strong> )</p><hr><p><a href="https://learnku.com/" target="_blank" rel="noopener">https://learnku.com/</a></p><hr>]]></content>
     
@@ -36,34 +36,7 @@
     
     </summary>
     
-      <category term="朋友" scheme="http://kuo.lu/categories/%E6%9C%8B%E5%8F%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>About me - 关于我</title>
-    <link href="http://kuo.lu/2019/05/11/my/"/>
-    <id>http://kuo.lu/2019/05/11/my/</id>
-    <published>2019-05-10T16:00:00.000Z</published>
-    <updated>2019-05-14T08:20:23.820Z</updated>
-    
-    <content type="html"><![CDATA[<p><em><strong>KuoLu</strong></em></p><hr><p><strong>WeChat</strong>: <em>Red-Charcoal</em></p><hr><p><strong>Weibo</strong>：<em><a href="https://weibo.com/5451432140" target="_blank" rel="noopener">偏守</a></em></p><p><img src="https://i.loli.net/2019/05/11/5cd68f7bd1a4a.png" alt="想输入的提示名字，可不输入"></p><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;em&gt;&lt;strong&gt;KuoLu&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;WeChat&lt;/strong&gt;: &lt;em&gt;Red-Charcoal&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Weibo&lt;/strong&gt;：&lt;em&gt;&lt;a href
-      
-    
-    </summary>
-    
-      <category term="other" scheme="http://kuo.lu/categories/other/"/>
+      <category term="friends" scheme="http://kuo.lu/categories/friends/"/>
     
     
   </entry>
@@ -89,6 +62,33 @@
 &lt;pre&gt;&lt;code&gt;- 超快速度
 
  - 
+      
+    
+    </summary>
+    
+      <category term="other" scheme="http://kuo.lu/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>About me - 关于我</title>
+    <link href="http://kuo.lu/2019/05/11/my/"/>
+    <id>http://kuo.lu/2019/05/11/my/</id>
+    <published>2019-05-10T16:00:00.000Z</published>
+    <updated>2019-05-14T08:20:23.820Z</updated>
+    
+    <content type="html"><![CDATA[<p><em><strong>KuoLu</strong></em></p><hr><p><strong>WeChat</strong>: <em>Red-Charcoal</em></p><hr><p><strong>Weibo</strong>：<em><a href="https://weibo.com/5451432140" target="_blank" rel="noopener">偏守</a></em></p><p><img src="https://i.loli.net/2019/05/11/5cd68f7bd1a4a.png" alt="想输入的提示名字，可不输入"></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;em&gt;&lt;strong&gt;KuoLu&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;WeChat&lt;/strong&gt;: &lt;em&gt;Red-Charcoal&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Weibo&lt;/strong&gt;：&lt;em&gt;&lt;a href
       
     
     </summary>
