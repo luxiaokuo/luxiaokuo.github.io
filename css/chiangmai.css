@@ -851,4 +851,8 @@ footer .copyright a:hover {
     .archive .post-item{
         padding: 10px;
     }
+
+    body{
+        font-size:14px;
+    }
 }
