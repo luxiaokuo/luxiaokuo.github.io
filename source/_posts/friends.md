@@ -68,10 +68,16 @@ https://learnku.com/
 
 ---
 
-**Emin**
+**Emin** - ( 站长 [Emin](https://www.emin.ink/))
 
 ---
 
-https://www.emin.ink
+https://www.emin.ink/blog
 
 ---
+
+**Arloor** - ( 站长 [Arloor](http://arloor.com/))
+
+---
+
+http://arloor.com/
