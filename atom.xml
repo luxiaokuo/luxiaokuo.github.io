@@ -42,6 +42,33 @@
   </entry>
   
   <entry>
+    <title>About me - 关于我</title>
+    <link href="http://kuo.lu/2019/05/11/my/"/>
+    <id>http://kuo.lu/2019/05/11/my/</id>
+    <published>2019-05-10T16:00:00.000Z</published>
+    <updated>2019-05-14T08:20:23.820Z</updated>
+    
+    <content type="html"><![CDATA[<p><em><strong>KuoLu</strong></em></p><hr><p><strong>WeChat</strong>: <em>Red-Charcoal</em></p><hr><p><strong>Weibo</strong>：<em><a href="https://weibo.com/5451432140" target="_blank" rel="noopener">偏守</a></em></p><p><img src="https://i.loli.net/2019/05/11/5cd68f7bd1a4a.png" alt="想输入的提示名字，可不输入"></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;em&gt;&lt;strong&gt;KuoLu&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;WeChat&lt;/strong&gt;: &lt;em&gt;Red-Charcoal&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Weibo&lt;/strong&gt;：&lt;em&gt;&lt;a href
+      
+    
+    </summary>
+    
+      <category term="other" scheme="http://kuo.lu/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hexo - Themes Chiangmai</title>
     <link href="http://kuo.lu/2019/05/11/hexo-themes/"/>
     <id>http://kuo.lu/2019/05/11/hexo-themes/</id>
@@ -62,33 +89,6 @@
 &lt;pre&gt;&lt;code&gt;- 超快速度
 
  - 
-      
-    
-    </summary>
-    
-      <category term="other" scheme="http://kuo.lu/categories/other/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>About me - 关于我</title>
-    <link href="http://kuo.lu/2019/05/11/my/"/>
-    <id>http://kuo.lu/2019/05/11/my/</id>
-    <published>2019-05-10T16:00:00.000Z</published>
-    <updated>2019-05-14T08:20:23.820Z</updated>
-    
-    <content type="html"><![CDATA[<p><em><strong>KuoLu</strong></em></p><hr><p><strong>WeChat</strong>: <em>Red-Charcoal</em></p><hr><p><strong>Weibo</strong>：<em><a href="https://weibo.com/5451432140" target="_blank" rel="noopener">偏守</a></em></p><p><img src="https://i.loli.net/2019/05/11/5cd68f7bd1a4a.png" alt="想输入的提示名字，可不输入"></p><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;em&gt;&lt;strong&gt;KuoLu&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;WeChat&lt;/strong&gt;: &lt;em&gt;Red-Charcoal&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Weibo&lt;/strong&gt;：&lt;em&gt;&lt;a href
       
     
     </summary>
@@ -173,32 +173,6 @@
   </entry>
   
   <entry>
-    <title>Mysql - install 安装及基本命令</title>
-    <link href="http://kuo.lu/2018/08/10/mysql-install/"/>
-    <id>http://kuo.lu/2018/08/10/mysql-install/</id>
-    <published>2018-08-09T16:00:00.000Z</published>
-    <updated>2019-05-13T16:47:24.722Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>Mysql</strong> ( <em>mysql -u root -p访问mysql</em> )</p><hr><p><strong><em>1.下载mysql源安装包</em></strong></p><p><code>wget http://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>2.安装mysql源</em></strong></p><p><code>yum localinstall mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>3.查看是否安装成功</em></strong></p><p><code>yum repolist enabled | grep &quot;mysql.*-community.*&quot;</code></p><hr><p><strong><em>4.这个指令可以修改安装版本(一般不用改，默认安装你的5.7)</em></strong></p><p><code>vim /etc/yum.repos.d/mysql-community.repo</code></p><hr><p><strong><em>5.安装mysql</em></strong></p><p><code>yum install mysql-community-server</code></p><hr><p><strong><em>6.启动MySql</em></strong></p><hr><p><strong>启动</strong></p><p><code>systemctl start mysqld</code></p><p><strong>状态</strong></p><p><code>systemctl status mysqld</code></p><p><strong>重启</strong></p><p><code>/bin/systemctl restart mysqld.service</code></p><hr><p><strong>7.开机自启</strong></p><p><code>systemctl enable mysql</code></p><p><code>systemctl daemon-reload</code></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;strong&gt;Mysql&lt;/strong&gt; ( &lt;em&gt;mysql -u root -p访问mysql&lt;/em&gt; )&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;1.下载mysql源安装包&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;wget http://
-      
-    
-    </summary>
-    
-      <category term="mysql" scheme="http://kuo.lu/categories/mysql/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Apache 基本命令</title>
     <link href="http://kuo.lu/2018/08/10/apache/"/>
     <id>http://kuo.lu/2018/08/10/apache/</id>
@@ -227,6 +201,32 @@
   </entry>
   
   <entry>
+    <title>Mysql - install 安装及基本命令</title>
+    <link href="http://kuo.lu/2018/08/10/mysql-install/"/>
+    <id>http://kuo.lu/2018/08/10/mysql-install/</id>
+    <published>2018-08-09T16:00:00.000Z</published>
+    <updated>2019-05-13T16:47:24.722Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Mysql</strong> ( <em>mysql -u root -p访问mysql</em> )</p><hr><p><strong><em>1.下载mysql源安装包</em></strong></p><p><code>wget http://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>2.安装mysql源</em></strong></p><p><code>yum localinstall mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>3.查看是否安装成功</em></strong></p><p><code>yum repolist enabled | grep &quot;mysql.*-community.*&quot;</code></p><hr><p><strong><em>4.这个指令可以修改安装版本(一般不用改，默认安装你的5.7)</em></strong></p><p><code>vim /etc/yum.repos.d/mysql-community.repo</code></p><hr><p><strong><em>5.安装mysql</em></strong></p><p><code>yum install mysql-community-server</code></p><hr><p><strong><em>6.启动MySql</em></strong></p><hr><p><strong>启动</strong></p><p><code>systemctl start mysqld</code></p><p><strong>状态</strong></p><p><code>systemctl status mysqld</code></p><p><strong>重启</strong></p><p><code>/bin/systemctl restart mysqld.service</code></p><hr><p><strong>7.开机自启</strong></p><p><code>systemctl enable mysql</code></p><p><code>systemctl daemon-reload</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;Mysql&lt;/strong&gt; ( &lt;em&gt;mysql -u root -p访问mysql&lt;/em&gt; )&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;1.下载mysql源安装包&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;wget http://
+      
+    
+    </summary>
+    
+      <category term="mysql" scheme="http://kuo.lu/categories/mysql/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Firewall 基本命令</title>
     <link href="http://kuo.lu/2018/08/09/firewall/"/>
     <id>http://kuo.lu/2018/08/09/firewall/</id>
@@ -244,6 +244,30 @@
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;启动服务&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;systemctl start firewalld
+      
+    
+    </summary>
+    
+      <category term="firewall" scheme="http://kuo.lu/categories/firewall/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Firewall 基本命令</title>
+    <link href="http://kuo.lu/2018/08/09/laravel-helpers-functions/"/>
+    <id>http://kuo.lu/2018/08/09/laravel-helpers-functions/</id>
+    <published>2018-08-08T16:00:00.000Z</published>
+    <updated>2019-06-13T02:47:27.248Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>1.在 <code>app/Helpers/ 新建一个文件 `</code>functions.php`,当然这个文件位置和名称你可以自己定义，创建一些函数用于全局调用</strong></p><p><code>firewall-cmd --state</code></p><hr><p><strong>启动服务</strong></p><p><code>systemctl start firewalld</code></p><hr><p><strong>设为开机启动</strong></p><p><code>systemctl enable firewalld</code></p><hr><p><strong>查看是否启动成功</strong></p><p><code>systemctl status firewalld</code></p><hr><p><strong>重启</strong></p><p><code>firewall-cmd --reload</code></p><hr><p><strong>查看所有端口</strong></p><p><code>firewall-cmd --list-ports</code></p><hr><p><strong>开启80端口</strong></p><p><code>firewall-cmd --zone=public --add-port=80/tcp --permanent</code></p><hr><p><strong>开启3306</strong></p><p><code>firewall-cmd --zone=public --add-port=3306/tcp --permanent</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;1.在 &lt;code&gt;app/Helpers/ 新建一个文件 `&lt;/code&gt;functions.php`,当然这个文件位置和名称你可以自己定义，创建一些函数用于全局调用&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;firewall-cmd --state&lt;/
       
     
     </summary>
@@ -509,34 +533,6 @@
     </summary>
     
       <category term="Mvc" scheme="http://kuo.lu/categories/Mvc/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Ab命令 - 网站性能压力测试</title>
-    <link href="http://kuo.lu/2016/06/06/apache-ab/"/>
-    <id>http://kuo.lu/2016/06/06/apache-ab/</id>
-    <published>2016-06-05T16:00:00.000Z</published>
-    <updated>2019-05-17T02:26:42.397Z</updated>
-    
-    <content type="html"><![CDATA[<p>Apache 的 httpd 工具包中提供了apachebench</p><hr><p>可以简单的做网站性能压力测试</p><hr><p><code>ab -n 2000 -c 200 http://www.testsite.com/</code></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Apache 的 httpd 工具包中提供了apachebench&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;可以简单的做网站性能压力测试&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;code&gt;ab -n 2000 -c 200 http://www.testsite.com/&lt;/code&gt;&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-      <category term="apache" scheme="http://kuo.lu/categories/apache/"/>
     
     
   </entry>
