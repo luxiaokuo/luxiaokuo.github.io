@@ -12,11 +12,11 @@ date: 2019-05-13
 
 ---
 
-**主机排行榜**  -  ( _独立发开发者联盟 - 组建人 **[cmlanche](https://cmlanche.com/)**_ )
+**找主机网**  -  ( _独立发开发者联盟 - 组建人 **[cmlanche](https://cmlanche.com/)**_ )
 
 ---
 
-https://hostingranking.cn/
+https://zhaozhuji.info
 
 ---
 
