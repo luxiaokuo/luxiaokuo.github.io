@@ -173,6 +173,32 @@
   </entry>
   
   <entry>
+    <title>Mysql - install 安装及基本命令</title>
+    <link href="http://kuo.lu/2018/08/10/mysql-install/"/>
+    <id>http://kuo.lu/2018/08/10/mysql-install/</id>
+    <published>2018-08-09T16:00:00.000Z</published>
+    <updated>2019-05-13T16:47:24.722Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Mysql</strong> ( <em>mysql -u root -p访问mysql</em> )</p><hr><p><strong><em>1.下载mysql源安装包</em></strong></p><p><code>wget http://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>2.安装mysql源</em></strong></p><p><code>yum localinstall mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>3.查看是否安装成功</em></strong></p><p><code>yum repolist enabled | grep &quot;mysql.*-community.*&quot;</code></p><hr><p><strong><em>4.这个指令可以修改安装版本(一般不用改，默认安装你的5.7)</em></strong></p><p><code>vim /etc/yum.repos.d/mysql-community.repo</code></p><hr><p><strong><em>5.安装mysql</em></strong></p><p><code>yum install mysql-community-server</code></p><hr><p><strong><em>6.启动MySql</em></strong></p><hr><p><strong>启动</strong></p><p><code>systemctl start mysqld</code></p><p><strong>状态</strong></p><p><code>systemctl status mysqld</code></p><p><strong>重启</strong></p><p><code>/bin/systemctl restart mysqld.service</code></p><hr><p><strong>7.开机自启</strong></p><p><code>systemctl enable mysql</code></p><p><code>systemctl daemon-reload</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;Mysql&lt;/strong&gt; ( &lt;em&gt;mysql -u root -p访问mysql&lt;/em&gt; )&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;1.下载mysql源安装包&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;wget http://
+      
+    
+    </summary>
+    
+      <category term="mysql" scheme="http://kuo.lu/categories/mysql/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Apache 基本命令</title>
     <link href="http://kuo.lu/2018/08/10/apache/"/>
     <id>http://kuo.lu/2018/08/10/apache/</id>
@@ -201,27 +227,27 @@
   </entry>
   
   <entry>
-    <title>Mysql - install 安装及基本命令</title>
-    <link href="http://kuo.lu/2018/08/10/mysql-install/"/>
-    <id>http://kuo.lu/2018/08/10/mysql-install/</id>
-    <published>2018-08-09T16:00:00.000Z</published>
-    <updated>2019-05-13T16:47:24.722Z</updated>
+    <title>laravel 自定义公共函数</title>
+    <link href="http://kuo.lu/2018/08/09/laravel-helpers-functions/"/>
+    <id>http://kuo.lu/2018/08/09/laravel-helpers-functions/</id>
+    <published>2018-08-08T16:00:00.000Z</published>
+    <updated>2019-06-13T03:11:25.061Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>Mysql</strong> ( <em>mysql -u root -p访问mysql</em> )</p><hr><p><strong><em>1.下载mysql源安装包</em></strong></p><p><code>wget http://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>2.安装mysql源</em></strong></p><p><code>yum localinstall mysql57-community-release-el7-11.noarch.rpm</code></p><hr><p><strong><em>3.查看是否安装成功</em></strong></p><p><code>yum repolist enabled | grep &quot;mysql.*-community.*&quot;</code></p><hr><p><strong><em>4.这个指令可以修改安装版本(一般不用改，默认安装你的5.7)</em></strong></p><p><code>vim /etc/yum.repos.d/mysql-community.repo</code></p><hr><p><strong><em>5.安装mysql</em></strong></p><p><code>yum install mysql-community-server</code></p><hr><p><strong><em>6.启动MySql</em></strong></p><hr><p><strong>启动</strong></p><p><code>systemctl start mysqld</code></p><p><strong>状态</strong></p><p><code>systemctl status mysqld</code></p><p><strong>重启</strong></p><p><code>/bin/systemctl restart mysqld.service</code></p><hr><p><strong>7.开机自启</strong></p><p><code>systemctl enable mysql</code></p><p><code>systemctl daemon-reload</code></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>1. 在app目录下建立Helpers文件夹</strong></p><p><code>mkdir Helpers</code></p><hr><p><strong>2. Helpers文件夹下建立functions.php文件</strong></p><p><code>touch function.php</code></p><hr><p><strong>3. 在根目录composer.json中修改autoload加入以下代码</strong></p><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">"files"</span>: [</span><br><span class="line">    <span class="string">"app/Helpers/functions.php"</span></span><br><span class="line">]</span><br></pre></td></tr></table></figure><hr><p><strong>效果如下</strong>：</p><p><img src="https://i.loli.net/2019/06/13/5d01bc641508157240.png" alt="想输入的提示名字，可不输入"></p><hr><p><strong>4. 执行<code>composer</code>命令让其自动加载</strong></p><p><code>composer dump-auto</code></p><hr><p><strong>效果如下：</strong></p><p><img src="https://i.loli.net/2019/06/13/5d01be589a06172766.png" alt></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;strong&gt;Mysql&lt;/strong&gt; ( &lt;em&gt;mysql -u root -p访问mysql&lt;/em&gt; )&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;1. 在app目录下建立Helpers文件夹&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;mkdir Helpers&lt;/code&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;1.下载mysql源安装包&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;wget http://
+&lt;p&gt;&lt;strong&gt;2. Helpers文件夹下建立functions.php文件&lt;/strong&gt;&lt;/p
       
     
     </summary>
     
-      <category term="mysql" scheme="http://kuo.lu/categories/mysql/"/>
+      <category term="laravel" scheme="http://kuo.lu/categories/laravel/"/>
     
     
   </entry>
@@ -244,30 +270,6 @@
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;启动服务&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;systemctl start firewalld
-      
-    
-    </summary>
-    
-      <category term="firewall" scheme="http://kuo.lu/categories/firewall/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Firewall 基本命令</title>
-    <link href="http://kuo.lu/2018/08/09/laravel-helpers-functions/"/>
-    <id>http://kuo.lu/2018/08/09/laravel-helpers-functions/</id>
-    <published>2018-08-08T16:00:00.000Z</published>
-    <updated>2019-06-13T02:47:27.248Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>1.在 <code>app/Helpers/ 新建一个文件 `</code>functions.php`,当然这个文件位置和名称你可以自己定义，创建一些函数用于全局调用</strong></p><p><code>firewall-cmd --state</code></p><hr><p><strong>启动服务</strong></p><p><code>systemctl start firewalld</code></p><hr><p><strong>设为开机启动</strong></p><p><code>systemctl enable firewalld</code></p><hr><p><strong>查看是否启动成功</strong></p><p><code>systemctl status firewalld</code></p><hr><p><strong>重启</strong></p><p><code>firewall-cmd --reload</code></p><hr><p><strong>查看所有端口</strong></p><p><code>firewall-cmd --list-ports</code></p><hr><p><strong>开启80端口</strong></p><p><code>firewall-cmd --zone=public --add-port=80/tcp --permanent</code></p><hr><p><strong>开启3306</strong></p><p><code>firewall-cmd --zone=public --add-port=3306/tcp --permanent</code></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;strong&gt;1.在 &lt;code&gt;app/Helpers/ 新建一个文件 `&lt;/code&gt;functions.php`,当然这个文件位置和名称你可以自己定义，创建一些函数用于全局调用&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;firewall-cmd --state&lt;/
       
     
     </summary>
