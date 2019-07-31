@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kuo.lu/2017/09/06/php-http-or-https/</loc>
+    
+    <lastmod>2019-07-31T07:02:18.429Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kuo.lu/2017/08/03/php-paging/</loc>
+    
+    <lastmod>2019-07-31T07:02:18.393Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kuo.lu/2016/09/11/php-real-time/</loc>
+    
+    <lastmod>2019-07-31T06:55:09.146Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kuo.lu/2019/05/13/friends/</loc>
     
     <lastmod>2019-06-24T08:01:18.535Z</lastmod>
@@ -23,14 +44,14 @@
   </url>
   
   <url>
-    <loc>http://kuo.lu/2017/03/01/redis/</loc>
+    <loc>http://kuo.lu/2018/06/29/pinyin/</loc>
     
     <lastmod>2019-05-17T02:26:42.401Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://kuo.lu/2018/06/29/pinyin/</loc>
+    <loc>http://kuo.lu/2017/03/01/redis/</loc>
     
     <lastmod>2019-05-17T02:26:42.401Z</lastmod>
     

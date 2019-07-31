@@ -227,6 +227,32 @@
   </entry>
   
   <entry>
+    <title>laravel 自定义公共函数</title>
+    <link href="http://kuo.lu/2018/08/09/laravel-helpers-functions/"/>
+    <id>http://kuo.lu/2018/08/09/laravel-helpers-functions/</id>
+    <published>2018-08-08T16:00:00.000Z</published>
+    <updated>2019-06-13T03:11:25.061Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>1. 在app目录下建立Helpers文件夹</strong></p><p><code>mkdir Helpers</code></p><hr><p><strong>2. Helpers文件夹下建立functions.php文件</strong></p><p><code>touch function.php</code></p><hr><p><strong>3. 在根目录composer.json中修改autoload加入以下代码</strong></p><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">"files"</span>: [</span><br><span class="line">    <span class="string">"app/Helpers/functions.php"</span></span><br><span class="line">]</span><br></pre></td></tr></table></figure><hr><p><strong>效果如下</strong>：</p><p><img src="https://i.loli.net/2019/06/13/5d01bc641508157240.png" alt="想输入的提示名字，可不输入"></p><hr><p><strong>4. 执行<code>composer</code>命令让其自动加载</strong></p><p><code>composer dump-auto</code></p><hr><p><strong>效果如下：</strong></p><p><img src="https://i.loli.net/2019/06/13/5d01be589a06172766.png" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;1. 在app目录下建立Helpers文件夹&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;mkdir Helpers&lt;/code&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;2. Helpers文件夹下建立functions.php文件&lt;/strong&gt;&lt;/p
+      
+    
+    </summary>
+    
+      <category term="laravel" scheme="http://kuo.lu/categories/laravel/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Firewall 基本命令</title>
     <link href="http://kuo.lu/2018/08/09/firewall/"/>
     <id>http://kuo.lu/2018/08/09/firewall/</id>
@@ -249,32 +275,6 @@
     </summary>
     
       <category term="firewall" scheme="http://kuo.lu/categories/firewall/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>laravel 自定义公共函数</title>
-    <link href="http://kuo.lu/2018/08/09/laravel-helpers-functions/"/>
-    <id>http://kuo.lu/2018/08/09/laravel-helpers-functions/</id>
-    <published>2018-08-08T16:00:00.000Z</published>
-    <updated>2019-06-13T03:11:25.061Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>1. 在app目录下建立Helpers文件夹</strong></p><p><code>mkdir Helpers</code></p><hr><p><strong>2. Helpers文件夹下建立functions.php文件</strong></p><p><code>touch function.php</code></p><hr><p><strong>3. 在根目录composer.json中修改autoload加入以下代码</strong></p><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">"files"</span>: [</span><br><span class="line">    <span class="string">"app/Helpers/functions.php"</span></span><br><span class="line">]</span><br></pre></td></tr></table></figure><hr><p><strong>效果如下</strong>：</p><p><img src="https://i.loli.net/2019/06/13/5d01bc641508157240.png" alt="想输入的提示名字，可不输入"></p><hr><p><strong>4. 执行<code>composer</code>命令让其自动加载</strong></p><p><code>composer dump-auto</code></p><hr><p><strong>效果如下：</strong></p><p><img src="https://i.loli.net/2019/06/13/5d01be589a06172766.png" alt></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;strong&gt;1. 在app目录下建立Helpers文件夹&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;mkdir Helpers&lt;/code&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;2. Helpers文件夹下建立functions.php文件&lt;/strong&gt;&lt;/p
-      
-    
-    </summary>
-    
-      <category term="laravel" scheme="http://kuo.lu/categories/laravel/"/>
     
     
   </entry>
@@ -436,6 +436,53 @@
   </entry>
   
   <entry>
+    <title>PHP - http or https</title>
+    <link href="http://kuo.lu/2017/09/06/php-http-or-https/"/>
+    <id>http://kuo.lu/2017/09/06/php-http-or-https/</id>
+    <published>2017-09-05T16:00:00.000Z</published>
+    <updated>2019-07-31T07:02:18.429Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">is_https</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">if</span> (!<span class="keyword">empty</span>($_SERVER[<span class="string">'HTTPS'</span>]) &amp;&amp; strtolower($_SERVER[<span class="string">'HTTPS'</span>]) !== <span class="string">'off'</span>) &#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="string">'https://'</span>;</span><br><span class="line">    &#125; <span class="keyword">elseif</span> (<span class="keyword">isset</span>($_SERVER[<span class="string">'HTTP_X_FORWARDED_PROTO'</span>]) &amp;&amp; $_SERVER[<span class="string">'HTTP_X_FORWARDED_PROTO'</span>] === <span class="string">'https'</span>) &#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="string">'https://'</span>;</span><br><span class="line">    &#125; <span class="keyword">elseif</span> (!<span class="keyword">empty</span>($_SERVER[<span class="string">'HTTP_FRONT_END_HTTPS'</span>]) &amp;&amp; strtolower($_SERVER[<span class="string">'HTTP_FRONT_END_HTTPS'</span>]) !== <span class="string">'off'</span>) &#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="string">'https://'</span>;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="string">'http://'</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;figure class=&quot;highlight php&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;
+      
+    
+    </summary>
+    
+      <category term="php" scheme="http://kuo.lu/categories/php/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>PHP - 二维数组分页 重新排序</title>
+    <link href="http://kuo.lu/2017/08/03/php-paging/"/>
+    <id>http://kuo.lu/2017/08/03/php-paging/</id>
+    <published>2017-08-02T16:00:00.000Z</published>
+    <updated>2019-07-31T07:02:18.393Z</updated>
+    
+    <content type="html"><![CDATA[<p>二维数组分页</p><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">array_slice($newlist[<span class="string">'list'</span>], ($page - <span class="number">1</span>) * $pagesize, $pagesize);</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;二维数组分页&lt;/p&gt;
+&lt;figure class=&quot;highlight php&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;p
+      
+    
+    </summary>
+    
+      <category term="php" scheme="http://kuo.lu/categories/php/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Xampp - Linux install 安装及基本命令</title>
     <link href="http://kuo.lu/2017/03/07/linux-install-xampp/"/>
     <id>http://kuo.lu/2017/03/07/linux-install-xampp/</id>
@@ -483,58 +530,6 @@
     </summary>
     
       <category term="redis" scheme="http://kuo.lu/categories/redis/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Thinkphp - URl访问地址</title>
-    <link href="http://kuo.lu/2017/02/09/tp-url/"/>
-    <id>http://kuo.lu/2017/02/09/tp-url/</id>
-    <published>2017-02-08T16:00:00.000Z</published>
-    <updated>2019-05-13T17:42:39.716Z</updated>
-    
-    <content type="html"><![CDATA[<p>访问地址</p><hr><p><strong>1.</strong> <em>基本get模式</em></p><p><code>http://网址/index.php?m=XX &amp;c=XX &amp;a=XX</code></p><hr><p><strong>2.</strong> <em>路径模式pathinfo</em></p><p><code>http://网址/index.php/模块/控制器/操作方法</code></p><hr><p><strong>3.</strong> <em>rewrite重写模式</em></p><p><code>http://网址/模块/控制器/操作方法</code></p><hr><p><strong>4.</strong> <em>兼容模式</em></p><p><code>http://网址/index.php?s=/模块/控制器/方法</code></p><hr><p>具体url地址模式设置(thinkPHP/conf/convertion.php)</p><hr><p><strong>url_model = 0/1/2/3</strong> 分别代表4种url地址模式</p><hr><p>thinkphp_3.2.3_full\Application\Common\Conf\conf.php</p><hr><p>我们当前自己项目的配置文件</p><hr><p>修改conf.php增加配置以后 会把convertion.php里的值覆盖掉</p><hr><p>修改url默认怎么修改</p><hr><p>在 <strong><em>ThinkPHP/Conf/concention.php</em></strong> 配置文件中</p><hr><p><strong>46</strong>-<strong>48</strong>行</p><hr><p>默认模块</p><p><code>&#39;DEFAULT_MODULE&#39;        =&gt;  &#39;Home&#39;,</code></p><hr><p>默认控制器名称</p><p><code>&#39;DEFAULT_CONTROLLER&#39;    =&gt;  &#39;Index&#39;,</code></p><hr><p>默认操作名称</p><p><code>&#39;DEFAULT_ACTION&#39;        =&gt;  &#39;index&#39;,</code></p><hr><p>修改后 <strong>默认模块</strong> 和 <strong>控制器</strong> 和 <strong>操作名称</strong> 就会被更改</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;访问地址&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; &lt;em&gt;基本get模式&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;http://网址/index.php?m=XX &amp;amp;c=XX &amp;amp;a=XX&lt;/code&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;stron
-      
-    
-    </summary>
-    
-      <category term="thinkphp" scheme="http://kuo.lu/categories/thinkphp/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Mvc</title>
-    <link href="http://kuo.lu/2016/12/30/mvc/"/>
-    <id>http://kuo.lu/2016/12/30/mvc/</id>
-    <published>2016-12-29T16:00:00.000Z</published>
-    <updated>2019-05-14T04:38:35.763Z</updated>
-    
-    <content type="html"><![CDATA[<p>介绍:</p><p>MVC全名是Model View Controller，是模型(model)－视图(view)－控制器(controller)的缩写，一种软件设计典范，用一种业务逻辑、数据、界面显示分离的方法组织代码，将业务逻辑聚集到一个部件里面，在改进和个性化定制界面及用户交互的同时，不需要重新编写业务逻辑。MVC被独特的发展起来用于映射传统的输入、处理和输出功能在一个逻辑的图形化用户界面的结构中。</p><hr><p>产生时间: <strong>1982</strong> 年</p><hr><p><strong><em>M - 模型</em></strong></p><p><code>Model</code></p><hr><p><strong><em>V - 视图</em></strong></p><p><code>View</code></p><hr><p><strong><em>C - 控制器</em></strong></p><p><code>Controller</code></p><hr><p><img src="https://i.loli.net/2019/05/14/5cd9a974410b370782.gif" alt></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;介绍:&lt;/p&gt;
-&lt;p&gt;MVC全名是Model View Controller，是模型(model)－视图(view)－控制器(controller)的缩写，一种软件设计典范，用一种业务逻辑、数据、界面显示分离的方法组织代码，将业务逻辑聚集到一个部件里面，在改进和个性化定制界
-      
-    
-    </summary>
-    
-      <category term="Mvc" scheme="http://kuo.lu/categories/Mvc/"/>
     
     
   </entry>
