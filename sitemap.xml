@@ -13,7 +13,28 @@
     <loc>http://kuo.lu/2019/05/13/friends/</loc>
 >>>>>>> 23d038e4837e06ce295415987e026bdc9dd8fbc5
     
-    <lastmod>2019-06-24T08:01:18.535Z</lastmod>
+    <lastmod>2019-08-01T10:06:08.017Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kuo.lu/2017/09/06/php-http-or-https/</loc>
+    
+    <lastmod>2019-07-31T07:02:18.429Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kuo.lu/2017/08/03/php-paging/</loc>
+    
+    <lastmod>2019-07-31T07:02:18.393Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kuo.lu/2016/09/11/php-real-time/</loc>
+    
+    <lastmod>2019-07-31T06:55:09.146Z</lastmod>
     
   </url>
   
@@ -55,7 +76,7 @@
   </url>
   
   <url>
-    <loc>http://kuo.lu/2017/03/07/linux-install-xampp/</loc>
+    <loc>http://kuo.lu/2018/01/11/laravel-cache/</loc>
     
     <lastmod>2019-05-16T18:10:05.046Z</lastmod>
     
@@ -63,10 +84,14 @@
   
   <url>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <loc>http://kuo.lu/2016/05/11/hi/</loc>
 =======
     <loc>http://kuo.lu/2018/01/11/laravel-cache/</loc>
 >>>>>>> 1ec3ec2a8725fc00d3241aecbef73814a613488f
+=======
+    <loc>http://kuo.lu/2017/03/07/linux-install-xampp/</loc>
+>>>>>>> fbcd6af8a3373a2e01931d5f97e15fccaf2cd85a
     
     <lastmod>2019-05-16T18:09:58.874Z</lastmod>
     
