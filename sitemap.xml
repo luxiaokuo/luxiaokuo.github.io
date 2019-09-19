@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>http://kuo.lu/2017/03/01/redis/</loc>
+    <loc>http://kuo.lu/2018/06/29/pinyin/</loc>
     
     <lastmod>2019-05-16T18:18:26.436Z</lastmod>
     
@@ -66,10 +66,14 @@
   
   <url>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <loc>http://kuo.lu/2017/03/07/linux-install-xampp/</loc>
 =======
     <loc>http://kuo.lu/2018/06/29/pinyin/</loc>
 >>>>>>> 1ec3ec2a8725fc00d3241aecbef73814a613488f
+=======
+    <loc>http://kuo.lu/2017/03/01/redis/</loc>
+>>>>>>> 1229b78981ab1ab9e0071a0a6a3f4338a977942b
     
     <lastmod>2019-05-16T18:10:16.538Z</lastmod>
     
